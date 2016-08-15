@@ -1,0 +1,153 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<script type="text/javascript">
+function ddiv(cid) {
+    document.getElementById(cid).style.display = "block";
+}
+function makey(did) {
+	document.getElementById(did).value = "1";
+}
+</script>
+
+<section class="container" id="DataCollection" style="padding: 10px; width: 950px; height: 802px; color: rgb(51, 51, 51); font-family: Verdana, Geneva, sans-serif; font-size: 0.9em; margin-bottom: 15px;">
+
+<div class="row col-xs-12 col-md-12" dir="ltr" style="width: 100%; height: 482px;">
+
+<!-- hidden input to log whether user clicked amazon link -->
+<input id="amzchk" name="amzchk" type="hidden" value="0" />
+<input id="randgrp" name="randgrp" type="hidden" value="99" />
+
+<!-- randomized alternative aa complete version -->
+
+<div class="panel panel-primary" id="aa" style="display:none;">
+<div class="panel-heading"><strong>Instructions</strong> <em>(approximate HIT length 1-3 minutes)</em></div>
+
+<div class="panel-body">
+<p style="font-weight:bold">Find and document the <span style="font-size:22px">OpenLibrary page</span> of the book listed below by searching for the title and/or author <span style="font-size:22px"><a href="https://openlibrary.org/search" target="_blank">here</a></span>.</p>
+
+<p>Optionally, you may click the title below to open the Amazon.com product page for the book in a new window, allowing you to verify you have found the correct book.</p>
+
+<p>Some books will have an OpenLibrary page for the title, but not the specific edition. Others may not have an OpenLibrary page at all. When you have answered all questions, click submit.</p>
+<br>
+<ul style="font-size:24px">
+	<li>Title: <a href="http://amzn.com/dp/${asin}" target="_blank" onclick="javascript:makey('amzchk')">${title}</a></li>
+	<li>Author: ${author}</li>
+</ul>
+<br>
+<span id="qs" style="font-size:16px;font-weight:bold">
+<p>Did you locate a book with the correct title and author?</p>
+<p><input name="fta" type="radio" value="1" />Yes</p>
+<p><input name="fta" type="radio" value="0" />No (submit now)</p>
+<br>
+<p>Copy and paste the URL of the <strong>works</strong> page for the book and then click submit.</p>
+<p style="font-size:10px;">If the URL does not include "/works/" it is the wrong kind of page. Clicking a result on a search page should load the works page. To reach it from a specific edition ("book" page), click the title in the top left corner of the page following "N editions of..."</p>
+<p><input class="form-control" id="workurl" name="workurl" placeholder="https://openlibrary.org/works/..." type="url" /></p>
+</span>
+<br>
+<p>Optional: Type any further comment/explanation below.</p>
+<p><input type="text" id="comment" name="comment" /></p>
+
+&nbsp; &nbsp;
+
+<p><em>Your work will be automatically rejected if you do not answer each applicable question. All other submissions will be randomly verified.</em></p>
+
+<p><em>If you have any questions or feedback or feel your work was unfairly rejected, please contact the requester. We hope to earn your trust by being both fair and timely in tasks, payment, and communication.</em></p>
+</div>
+</div>
+
+<!-- randomized alternative ba less detailed instructions -->
+
+<div class="panel panel-primary" id="ba" style="display:none;">
+<div class="panel-heading"><strong>Instructions</strong> <em>(approximate HIT length 1-3 minutes)</em></div>
+
+<div class="panel-body">
+<p style="font-weight:bold">Find the <span style="font-size:22px">OpenLibrary page</span> of the book below (if it exists) using this <span style="font-size:22px"><a href="https://openlibrary.org/search" target="_blank">link</a>.</span></p>
+
+<br>
+<ul style="font-size:24px">
+	<li>Title: <a href="http://amzn.com/dp/${asin}" target="_blank" onclick="javascript:makey('amzchk')">${title}</a></li>
+	<li>Author: ${author}</li>
+</ul>
+<br>
+<span id="qs" style="font-size:16px;font-weight:bold;">
+<p>Did you locate the book?</p>
+<p><input name="fta" type="radio" value="1" />Yes</p>
+<p><input name="fta" type="radio" value="0" />No</p>
+<br>
+<p>URL at openlibrary.org:</p>
+<p><input class="form-control" id="workurl" name="workurl" placeholder="https://openlibrary.org/works/..." type="url" /></p>
+</span>
+<br>
+<p>Optional explanation:</p>
+<p><input type="text" id="comment" name="comment" /></p>
+
+&nbsp; &nbsp;
+
+<p><em>Your work will be automatically rejected if you do not answer each applicable question. All other submissions will be randomly verified.</em></p>
+
+<p><em>If you have any questions or feedback or feel your work was unfairly rejected, please contact the requester. We hope to earn your trust by being both fair and timely in tasks, payment, and communication.</em></p>
+</div>
+</div>
+
+
+<!-- randomized alternative ab no style variation -->
+
+<div class="panel panel-primary" id="ab" style="display:none;">
+<div class="panel-heading">Instructions (approximate HIT length 1-3 minutes)</div>
+
+<div class="panel-body">
+<p>Find and document the OpenLibrary page of the book listed below by searching for the title and/or author <a href="https://openlibrary.org/search" target="_blank">here</a>. Answering a question may reveal a follow-up question based on your response.</p>
+
+<p>Optionally, you may click the title below to open the Amazon.com product page for the book in a new window, allowing you to verify you have found the correct book.</p>
+
+<p>Some books will have an OpenLibrary page for the title, but not the specific edition. Others may not have an OpenLibrary page at all. When you have answered all questions, click submit.</p>
+<br>
+<ul>
+	<li>Title: <a href="http://amzn.com/dp/${asin}" target="_blank" onclick="javascript:makey('amzchk');" />${title}</a></li>
+	<li>Author: ${author}</li>
+</ul>
+<br>
+<p>Did you locate a book with the correct title and author?</p>
+<p><input name="fta" type="radio" value="1" />Yes</p>
+<p><input name="fta" type="radio" value="0" />No</p>
+<br>
+<p>Copy and paste the URL of the works page for the book and then click submit.</p>
+<p>If the URL does not include "/works/" it is the wrong kind of page. Clicking a result on a search page should load the works page. To reach it from a specific edition ("book" page), click the title in the top left corner of the page following "N editions of..."</p>
+<p><input class="form-control" id="workurl" name="workurl" placeholder="https://openlibrary.org/works/..." type="url" /></p>
+<br>
+<p>Optional: Type any further comment/explanation below.</p>
+<p><input type="text" id="comment" name="comment" /></p>
+
+&nbsp; &nbsp;
+
+<p>Your work will be automatically rejected if you do not answer each applicable question. All other submissions will be randomly verified.</p>
+
+<p>If you have any questions or feedback or feel your work was unfairly rejected, please contact the requester. We hope to earn your trust by being both fair and timely in tasks, payment, and communication.</p>
+</div>
+</div>
+
+<!-- randomizer -->
+<script type="text/javascript">
+
+var rand = new Array();
+rand[0] = "aa";
+rand[1] = "ba";
+rand[2] = "ab";
+
+var random = Math.floor(Math.random()*rand.length);
+
+ddiv(rand[random]);
+
+document.getElementById("randgrp").value = rand[random];
+
+</script>
+
+
+
+<!-- tidying -->
+</div>
+</section>
+<!-- close container -->
+<style type="text/css">td { font-size:1.0em; padding: 5px 5px; }
+</style>
+<p>&nbsp;</p>

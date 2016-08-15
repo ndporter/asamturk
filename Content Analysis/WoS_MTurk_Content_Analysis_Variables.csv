@@ -1,0 +1,33 @@
+vName,vDescription
+inTitle,Mechanical Turk is mentioned in title
+inAbstr,Mechanical Turk is mentioned in abstract
+inKW,Mechanical Turk is mentioned in keywords (99=No keywords provided)
+pilot,is study a pilot study or attempt to refine/improve/test scales and items
+popEst,"tried to estimate population values (1 = full population, 2 = prevalence/values within specific sampled population)?"
+svMEx,"Used survey measurement experiment (wording, question order, etc manipulated to test measurement effects)"
+SubSvEx,"Used substantive experiment (names, vignettes, etc manipulated to answer substantive question of interest)"
+intExp,cooperative or interactive experiment (i.e. through referral to outside site) (also includes simulated interactive experiments e.g. through deception)
+dataAug,used in combination with non-AMT data? (1 = used to augment; 2 = primary with outside (nonMturk) augmentation
+dataVer,used to verify or replicate non-AMT data?
+webDCol,used to collect publicly available data from web?
+fDatCode,used to code data provided by investigator (requires judgment by workers but intended to collect factual/neutral data)?
+wDatCode,used to code data provided by investigator which is used to analyze workers (as opposed to collect neutral/factual data)?
+wSurv,used primarily as a survey instrument to collect data about workers (not coding data to study differences in how different workers code)
+othOnly, 1 = Only mentioned as alternative or future option; 2 = no reference to AMT; 3=Paper on tool for research (does not include pilot etc)
+repProc,reported process of data collection with AMT (1=general description; 2=detailed but partial description; 3=full description and/or instrument provided)
+repQual,reported worker qualifications required
+repCrit,reported criteria for accepting work (1=passing reference; 2=general description of procedure; 3=precise description of procedure)
+repDemg,reported worker demographic characteristics (1=limited summary; 2=detailed summary; 3=test for bias in sample or differences/effects by demographic)
+repMny,"reported worker pay (1=pay per task, 2=hourly pay)"
+repRes,reported results (1=only results for question; 2=1+descriptives; 3=detailed results reporting)
+validate,description of procedures used to validate AMT data
+caveat,description of caveats provided as to  data/AMT
+NOTES,other notes including basic description of how AMT used
+Disc,primary discipline
+provData,"provide data publicly (1 = provide partial, 2 = provide complete except confidential, 3 = provide original or close except confidential)"
+provInst,"provide survey instrument (1 = describe, 2 = provide full wording, 3 = provide HTML)"
+irb,mentioned IRB
+exttool,"Used external tool (Qualtrics, SurveyMonkey, custom app, etc.) (also marked as yes if multi-page tasks mentioned, as AMT has no embedded capacity for this, or language like ""displayed a link to study"" included)"
+focus,"What is primary substantive area of focus (1 = Mturk, 2 = Workers, 3 = other data) [secondary discussion of suitability/etc. doesn't count]"
+reptVart,Multiple similar variants collected
+rndSubs,Participants presented with a random subset of questions

@@ -1,0 +1,50 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="DataCollection" style="padding: 10px; width: 950px; height: 802px; color: rgb(51, 51, 51); font-family: Verdana, Geneva, sans-serif; font-size: 0.9em; margin-bottom: 15px;">
+<div class="row col-xs-12 col-md-12" dir="ltr" style="width: 100%; height: 482px;"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p>Verify whether <strong>${name}</strong> is a faculty member at <strong>${university}</strong>.</p>
+
+<p style="font-weight:bold">Use only the first 5 results at<span style="font-size:20px"><a href="https://duckduckgo.com/?q=${name}%09site:${domain}" target="_blank">THIS SEARCH LINK</a></span>.</p> 
+
+<p>Any result which lists name and department or field is acceptable. Examples are:</p>
+<ul>
+	<li>Faculty <a href="http://sociology.la.psu.edu/people/amv5430" target="_blank">homepage</a>
+	<li>Departmental <a href="http://sociology.la.psu.edu/people/" target="_blank">faculty list</a>
+	<li>Resume or <a href="http://sociology.la.psu.edu/people/amv5430/MyCV" target="_blank">Curriculum Vitae</a>
+	<li>University <a href="http://news.psu.edu/story/371807/2015/09/24/impact/pope-francis-showing-people-%E2%80%98-different-way-be-catholic%E2%80%99" target="_blank">news</a> or press release</ul>
+
+<p>You may need to use <strong>find</strong> (CTRL-F or CMD-F) to locate the professor on the page. Disciplines and fields may be within or following a person's title.</p>
+
+<h3>Did you find <strong>${name}</strong> at <strong>${university}</strong>?</h3>
+
+<p><input name="pagefound" type="radio" value="1">Yes</p>
+
+<p><input name="pagefound" type="radio" value="0">No <em>(stop and submit)</em></p>
+
+<h3>If yes, copy the complete URL of your source below:</h3>
+
+<p><input class="form-control" id="url" name="url" placeholder="http://" type="url" /></p>
+
+<h3>What type of source is this?</h3>
+
+<p><input name="srctype" type="radio" value="1">Faculty homepage</p>
+<p><input name="srctype" type="radio" value="2">Faculty list</p>
+<p><input name="srctype" type="radio" value="3">Resume/Curriculum Vitae</p>
+<p><input name="srctype" type="radio" value="4">News article/Press release</p>
+<p><input name="srctype" type="radio" value="5">Other (specify):<input name="srctype" type="text"></p>
+
+&nbsp;
+
+<p><em>If you have any questions or feedback or feel your work was unfairly rejected, please contact the requester. We hope to earn your trust by being both fair and timely in tasks, payment, and communication.</em></p>
+</div>
+</div>
+</div>
+</section>
+<!-- close container -->
+<style type="text/css">td { font-size:1.0em; padding: 5px 5px; }
+</style>
+<p>&nbsp;</p>

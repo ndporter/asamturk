@@ -1,0 +1,3813 @@
+PT J
+AU Miller, Geoffrey
+TI The Smartphone Psychology Manifesto
+SO PERSPECTIVES ON PSYCHOLOGICAL SCIENCE
+VL 7
+IS 3
+BP 221
+EP 237
+DI 10.1177/1745691612441215
+PD MAY 2012
+PY 2012
+AB By 2025, when most of today's psychology undergraduates will be in their
+   mid-30s, more than 5 billion people on our planet will be using
+   ultra-broadband, sensor-rich smartphones far beyond the abilities of
+   today's iPhones, Androids, and Blackberries. Although smartphones were
+   not designed for psychological research, they can collect vast amounts
+   of ecologically valid data, easily and quickly, from large global
+   samples. If participants download the right "psych apps," smartphones
+   can record where they are, what they are doing, and what they can see
+   and hear and can run interactive surveys, tests, and experiments through
+   touch screens and wireless connections to nearby screens, headsets,
+   biosensors, and other peripherals. This article reviews previous
+   behavioral research using mobile electronic devices, outlines what
+   smartphones can do now and will be able to do in the near future,
+   explains how a smartphone study could work practically given current
+   technology (e.g., in studying ovulatory cycle effects on women's
+   sexuality), discusses some limitations and challenges of smartphone
+   research, and compares smartphones to other research methods. Smartphone
+   research will require new skills in app development and data analysis
+   and will raise tough new ethical issues, but smartphones could transform
+   psychology even more profoundly than PCs and brain imaging did.
+ZR 0
+ZS 0
+Z8 1
+ZB 14
+TC 81
+Z9 82
+UT WOS:000304707300002
+PM 26168460
+ER
+
+PT J
+AU Kuperman, Victor
+   Stadthagen-Gonzalez, Hans
+   Brysbaert, Marc
+TI Age-of-acquisition ratings for 30,000 English words
+SO BEHAVIOR RESEARCH METHODS
+VL 44
+IS 4
+BP 978
+EP 990
+DI 10.3758/s13428-012-0210-4
+PD DEC 2012
+PY 2012
+AB We present age-of-acquisition (AoA) ratings for 30,121 English content
+   words (nouns, verbs, and adjectives). For data collection, this
+   megastudy used the Web-based crowdsourcing technology offered by the
+   Amazon Mechanical Turk. Our data indicate that the ratings collected in
+   this way are as valid and reliable as those collected in laboratory
+   conditions (the correlation between our ratings and those collected in
+   the lab from U. S. students reached .93 for a subsample of 2,500
+   monosyllabic words). We also show that our AoA ratings explain a
+   substantial percentage of the variance in the lexical-decision data of
+   the English Lexicon Project, over and above the effects of log
+   frequency, word length, and similarity to other words. This is true not
+   only for the lemmas used in our rating study, but also for their
+   inflected forms. We further discuss the relationships of AoA with other
+   predictors of word recognition and illustrate the utility of AoA ratings
+   for research on vocabulary growth.
+Z8 0
+ZR 0
+ZS 0
+ZB 39
+TC 78
+Z9 78
+UT WOS:000314573200009
+PM 22581493
+ER
+
+PT J
+AU Jonason, Peter K.
+   Luevano, Victor X.
+   Adams, Heather M.
+TI How the Dark Triad traits predict relationship choices
+SO PERSONALITY AND INDIVIDUAL DIFFERENCES
+VL 53
+IS 3
+BP 180
+EP 184
+DI 10.1016/j.paid.2012.03.007
+PD AUG 2012
+PY 2012
+AB While previous studies have correlated the Dark Triad traits (i.e.,
+   narcissism, psychopathy, and Machiavellianism) with a preference for
+   short-term relationships, little research has addressed possible
+   correlations with short-term relationship sub-types. In this online
+   study using Amazon's Mechanical Turk system (N = 210) we investigated
+   the manner in which scores on the Dark Triad relate to the selection of
+   different mating environments using a budget-allocation task. Overall,
+   the Dark Triad were positively correlated with preferences for
+   short-term relationships and negatively correlated with preferences for
+   a long-term relationship. Specifically, narcissism was uniquely
+   correlated with preferences for one-night stands and
+   friends-with-benefits and psychopathy was uniquely correlated with
+   preferences for booty-call relationships. Both narcissism and
+   psychopathy were negatively correlated with preferences for serious
+   romantic relationships. In mediation analyses, psychopathy partially
+   mediated the sex difference in preferences for booty-call relationships
+   and narcissism partially mediated the sex difference in preferences for
+   one-night stands. In addition, the sex difference in preference for
+   serious romantic relationships was partially mediated by both narcissism
+   and psychopathy. It appears the Dark Triad traits facilitate the
+   adoption of specific mating environments providing fit with people's
+   personality traits. (C) 2012 Elsevier Ltd. All rights reserved.
+ZR 0
+ZS 0
+Z8 3
+TC 39
+ZB 5
+Z9 42
+UT WOS:000306387700004
+ER
+
+PT J
+AU Curme, Chester
+   Preis, Tobias
+   Stanley, H. Eugene
+   Moat, Helen Susannah
+TI Quantifying the semantics of search behavior before stock market moves
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 111
+IS 32
+BP 11600
+EP 11605
+DI 10.1073/pnas.1324054111
+PD AUG 12 2014
+PY 2014
+AB Technology is becoming deeply interwoven into the fabric of society. The
+   Internet has become a central source of information for many people when
+   making day-to-day decisions. Here, we present a method to mine the vast
+   data Internet users create when searching for information online, to
+   identify topics of interest before stock market moves. In an analysis of
+   historic data from 2004 until 2012, we draw on records from the search
+   engine Google and online encyclopedia Wikipedia as well as judgments
+   from the service Amazon Mechanical Turk. We find evidence of links
+   between Internet searches relating to politics or business and
+   subsequent stock market moves. In particular, we find that an increase
+   in search volume for these topics tends to precede stock market falls.
+   We suggest that extensions of these analyses could offer insight into
+   large-scale information flow before a range of real-world events.
+Z8 0
+ZR 0
+ZS 0
+ZB 13
+TC 22
+Z9 22
+UT WOS:000340097900021
+PM 25071193
+ER
+
+PT J
+AU Tylka, Tracy L.
+   Wood-Barcalow, Nichole L.
+TI The Body Appreciation Scale-2: Item refinement and psychometric
+   evaluation
+SO BODY IMAGE
+VL 12
+BP 53
+EP 67
+DI 10.1016/j.bodyim.2014.09.006
+PD JAN 2015
+PY 2015
+AB Considered a positive body image measure, the 13-item Body Appreciation
+   Scale (BAS; Avalos, Tylka, & Wood-Barcalow, 2005) assesses individuals'
+   acceptance of, favorable opinions toward, and respect for their bodies.
+   While the BAS has accrued psychometric support, we improved it by
+   rewording certain BAS items (to eliminate sex-specific versions and body
+   dissatisfaction-based language) and developing additional items based on
+   positive body image research. In three studies, we examined the
+   reworded, newly developed, and retained items to determine their
+   psychometric properties among college and online community (Amazon
+   Mechanical Turk) samples of 820 women and 767 men. After exploratory
+   factor analysis, we retained 10 items (five original BAS items).
+   Confirmatory factor analysis upheld the BAS-2's unidimensionality and
+   invariance across sex and sample type. Its internal consistency,
+   test-retest reliability, and construct (convergent, incremental, and
+   discriminant) validity were supported. The BAS-2 is a psychometrically
+   sound positive body image measure applicable for research and clinical
+   settings. (C) 2014 Elsevier Ltd. All rights reserved.
+Z8 0
+ZR 0
+ZS 0
+TC 16
+ZB 3
+Z9 16
+UT WOS:000348954500008
+PM 25462882
+ER
+
+PT J
+AU Ames, Daniel L.
+   Fiske, Susan T.
+TI Intentional Harms Are Worse, Even When They're Not
+SO PSYCHOLOGICAL SCIENCE
+VL 24
+IS 9
+BP 1755
+EP 1762
+DI 10.1177/0956797613480507
+PD SEP 2013
+PY 2013
+AB People and societies seek to combat harmful events. However, because
+   resources are limited, every wrong righted leaves another wrong left
+   unchecked. Responses must therefore be calibrated to the magnitude of
+   the harm. One underappreciated factor that affects this calibration may
+   be people's oversensitivity to intent. Across a series of studies,
+   people saw intended harms as worse than unintended harms, even though
+   the two harms were identical. This harm-magnification effect occurred
+   for both subjective and monetary estimates of harm, and it remained when
+   participants were given incentives to be accurate. The effect was fully
+   mediated by blame motivation. People may therefore focus on intentional
+   harms to the neglect of unintentional (but equally damaging) harms.
+Z8 0
+ZR 0
+ZS 0
+TC 13
+ZB 4
+Z9 13
+UT WOS:000324403000016
+PM 23878021
+ER
+
+PT J
+AU Hepler, Justin
+   Albarracin, Dolores
+TI Attitudes Without Objects: Evidence for a Dispositional Attitude, Its
+   Measurement, and Its Consequences
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+VL 104
+IS 6
+BP 1060
+EP 1076
+DI 10.1037/a0032282
+PD JUN 2013
+PY 2013
+AB We hypothesized that individuals may differ in the dispositional
+   tendency to have positive vs. negative attitudes, a trait termed the
+   dispositional attitude. Across 4 studies, we developed a 16-item
+   Dispositional Attitude Measure (DAM) and investigated its internal
+   consistency, test-retest reliability, factor structure, convergent
+   validity, discriminant validity, and predictive validity. DAM scores
+   were (a) positively correlated with positive affect traits,
+   curiosity-related traits, and individual preexisting attitudes; (b)
+   negatively correlated with negative affect traits; and (c) uncorrelated
+   with theoretically unrelated traits. Dispositional attitudes also
+   significantly predicted the valence of novel attitudes while controlling
+   for theoretically relevant traits (such as the Big 5 and optimism). The
+   dispositional attitude construct represents a new perspective in which
+   attitudes are not simply a function of the properties of the stimuli
+   under consideration, but are also a function of the properties of the
+   evaluator. We discuss the intriguing implications of dispositional
+   attitudes for many areas of research, including attitude formation,
+   persuasion, and behavior prediction.
+ZB 0
+ZR 0
+ZS 0
+Z8 1
+TC 12
+Z9 13
+UT WOS:000319485100007
+PM 23586409
+ER
+
+PT J
+AU Cryder, Cynthia E.
+   Loewenstein, George
+   Scheines, Richard
+TI The donor is in the details
+SO ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+VL 120
+IS 1
+BP 15
+EP 23
+DI 10.1016/j.obhdp.2012.08.002
+PD JAN 2013
+PY 2013
+AB Recent research finds that people respond more generously to individual
+   victims described in detail than to equivalent statistical victims
+   described in general terms. We propose that this "identified victim
+   effect" is one manifestation of a more general phenomenon: a positive
+   influence of tangible information on generosity. In three experiments,
+   we find evidence for an "identified intervention effect"; providing
+   tangible details about a charity's interventions significantly increases
+   donations to that charity. Although previous work described sympathy as
+   the primary mediator between tangible information and giving, current
+   mediational analyses show that the influence of tangible details can
+   operate through donors' perception that their contribution will have
+   impact. Taken together with past work, the results suggest that tangible
+   information of many types promotes generosity and can do so either via
+   sympathy or via perceived impact. The ability of tangible information to
+   increase impact points to new ways for charities to encourage
+   generosity. (C) 2012 Elsevier Inc. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 13
+Z9 13
+UT WOS:000315255300002
+ER
+
+PT J
+AU Hook, Cayce J.
+   Farah, Martha J.
+TI Look Again: Effects of Brain Images and Mind-Brain Dualism on Lay
+   Evaluations of Research
+SO JOURNAL OF COGNITIVE NEUROSCIENCE
+VL 25
+IS 9
+BP 1397
+EP 1405
+DI 10.1162/jocn_a_00407
+PD SEP 2013
+PY 2013
+AB Brain scans have frequently been credited with uniquely seductive and
+   persuasive qualities, leading to claims that fMRI research receives a
+   disproportionate share of public attention and funding. It has been
+   suggested that functional brain images are fascinating because they
+   contradict dualist beliefs regarding the relationship between the body
+   and the mind. Although previous research has indicated that brain images
+   can increase judgments of an article's scientific reasoning, the
+   hypotheses that brain scans make research appear more interesting,
+   surprising, or worthy of funding have not been tested. Neither has the
+   relation between the allure of brain imaging and dualism. In the
+   following three studies, laypersons rated both fictional research
+   descriptions and real science news articles accompanied by brain scans,
+   bar charts, or photographs. Across 988 participants, we found little
+   evidence of neuroimaging ' s seductive allure or of its relation to
+   self- professed dualistic beliefs. These results, taken together with
+   other recent null findings, suggest that brain images are less powerful
+   than has been argued.
+Z8 0
+ZR 0
+ZS 0
+TC 12
+ZB 6
+Z9 12
+UT WOS:000330519700001
+PM 23879877
+ER
+
+PT J
+AU Chua, Roy Y. J.
+TI THE COSTS OF AMBIENT CULTURAL DISHARMONY: INDIRECT INTERCULTURAL
+   CONFLICTS IN SOCIAL ENVIRONMENT UNDERMINE CREATIVITY
+SO ACADEMY OF MANAGEMENT JOURNAL
+VL 56
+IS 6
+BP 1545
+EP 1577
+DI 10.5465/amj.2011.0971
+PD DEC 2013
+PY 2013
+AB Intercultural tensions and conflicts are inevitable in the global
+   workplace. This article introduces the concept of ambient cultural
+   disharmony-indirect experience of intercultural tensions and conflicts
+   in individuals' immediate social environment-and demonstrates how it
+   undermines creative thinking in tasks that draw on knowledge from
+   multiple cultures. Three studies (a network survey and two experiments)
+   showed that ambient cultural disharmony decreased individuals'
+   effectiveness at connecting ideas from disparate cultures. Beliefs that
+   ideas from different cultures are incompatible mediated the relationship
+   between ambient cultural disharmony and creativity. Alternative
+   mechanisms such as negative affect and cognitive disruption were not
+   viable mediators. Although ambient cultural disharmony disrupted
+   creativity, ambient cultural harmony did not promote creativity. These
+   findings have theoretical and practical implications for research in
+   workplace diversity and creativity.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 11
+Z9 11
+UT WOS:000328918700003
+ER
+
+PT J
+AU Steffens, Niklas K.
+   Haslam, S. Alexander
+   Reicher, Stephen D.
+TI Up close and personal: Evidence that shared social identity is a basis
+   for the 'special' relationship that binds followers to leaders
+SO LEADERSHIP QUARTERLY
+VL 25
+IS 2
+BP 296
+EP 313
+DI 10.1016/j.leaqua.2013.08.008
+PD APR 2014
+PY 2014
+AB The present research extends prior work by proposing that followers'
+   social identification with a group can translate into their relational
+   identification with leaders. Study 1 demonstrates experimentally that
+   compared to low-identified followers, highly identified followers
+   perceive themselves to share relational identity with a leader when that
+   leader is representative of their ingroup (but not if that leader is
+   representative of an outgroup). Followers' relational identification, in
+   turn, influences not only their experience of a personal bond with the
+   leader but also perceptions of leader charisma. Study 2 replicates these
+   findings in the context of Presidential candidates in the 2012 US
+   election and extends them by examining leader prototypicality as a
+   further moderating factor. Findings suggest that followers' experience
+   of a 'special' and 'personal' bond with leaders arises from their social
+   bond within a group that binds them together and provides a framework
+   for their mutual relationship. (C) 2013 Elsevier Inc. All rights
+   reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 10
+Z9 10
+UT WOS:000334651100008
+ER
+
+PT J
+AU Summerville, Amy
+   Chartier, Christopher R.
+TI Pseudo-dyadic "interaction" on Amazon's Mechanical Turk
+SO BEHAVIOR RESEARCH METHODS
+VL 45
+IS 1
+BP 116
+EP 124
+DI 10.3758/s13428-012-0250-9
+PD MAR 2013
+PY 2013
+AB Psychological researchers have begun to utilize Amazon's Mechanical Turk
+   (MTurk) marketplace as a participant pool. Although past work has
+   established that MTurk is well suited to examining individual behavior,
+   pseudo-dyadic interactions, in which participants falsely believe they
+   are interacting with a partner, are a key element of social and
+   cognitive psychology. The ability to conduct such interdependent
+   research on MTurk would increase the utility of this online population
+   for a broad range of psychologists. The present research therefore
+   attempts to qualitatively replicate well-established pseudo-dyadic tasks
+   on MTurk in order to establish the utility of this platform as a tool
+   for researchers. We find that participants do behave as if a partner is
+   real, even when doing so incurs a financial cost, and that they are
+   sensitive to subtle information about the partner in a minimal-groups
+   paradigm, supporting the use of MTurk for pseudo-dyadic research.
+Z8 0
+ZR 0
+ZS 0
+ZB 4
+TC 9
+Z9 9
+UT WOS:000319800900011
+PM 23055159
+ER
+
+PT J
+AU Bardeen, Joseph R.
+   Fergus, Thomas A.
+TI Experiential Avoidance as a Moderator of the Relationship Between
+   Anxiety Sensitivity and Perceived Stress
+SO BEHAVIOR THERAPY
+VL 44
+IS 3
+BP 459
+EP 469
+PD SEP 2013
+PY 2013
+AB Given the significant deleterious effects of stress on psychological and
+   physical well-being, the present two-part study sought to clarify
+   relations among putative vulnerability factors (i.e., anxiety
+   sensitivity, experiential avoidance) for perceived stress. Relations
+   among anxiety sensitivity, experiential avoidance, and perceived stress
+   were examined using a large college student sample (N = 4 00) in Study 1
+   and were replicated using a large community sample (N = 83 8) in Study
+   2. As predicted, experiential avoidance moderated the relationship
+   between anxiety sensitivity and perceived stress. Contrary to
+   expectations, simple effects in both studies revealed that anxiety
+   sensitivity shared a significant positive association with perceived
+   stress at low, but not high, levels of experiential avoidance. The
+   moderating role of experiential avoidance was found to be robust to the
+   effects of general distress. Moreover, anxiety sensitivity and
+   experiential avoidance evidenced a differential pattern of relations
+   with perceived stress than was evidenced with related negative affective
+   states (i.e., anxiety and depression). The present results suggest that
+   experiential avoidance appears to be a vulnerability factor of
+   particular importance for understanding the phenomenology of perceived
+   stress. Conceptual and clinical implications are discussed.
+Z8 0
+ZR 0
+ZS 0
+ZB 4
+TC 8
+Z9 8
+UT WOS:000321317100011
+PM 23768672
+ER
+
+PT J
+AU Rouse, Steven V.
+TI A reliability analysis of Mechanical Turk data
+SO COMPUTERS IN HUMAN BEHAVIOR
+VL 43
+BP 304
+EP 307
+DI 10.1016/j.chb.2014.11.004
+PD FEB 2015
+PY 2015
+AB Amazon's Mechanical Turk (MTurk) provides researchers with access to a
+   diverse set of people who can serve as research participants, making the
+   process of data collection a streamlined and cost-effective one. While a
+   small number of studies are often cited to support the use of this
+   methodology, there remains a need for additional analyses of the quality
+   of the research data. In the present study, MTurk-based responses for a
+   personality scale were found to be significantly less reliable than
+   scores previously reported for a community sample. While score
+   reliability was not affected by the length of the survey or the payment
+   rates, the presence of an item asking respondents to affirm that they
+   were attentive and honest was associated with more reliable responses.
+   Best practices for MTurk-based research and continuing research needs
+   are addressed. (C) 2014 Elsevier Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+UT WOS:000348889700030
+ER
+
+PT J
+AU Bartneck, Christoph
+   Duenser, Andreas
+   Moltchanova, Elena
+   Zawieska, Karolina
+TI Comparing the Similarity of Responses Received from Studies in Amazon's
+   Mechanical Turk to Studies Conducted Online and with Direct Recruitment
+SO PLOS ONE
+VL 10
+IS 4
+AR e0121595
+DI 10.1371/journal.pone.0121595
+PD APR 14 2015
+PY 2015
+AB Computer and internet based questionnaires have become a standard tool
+   in Human-Computer Interaction research and other related fields, such as
+   psychology and sociology. Amazon's Mechanical Turk (AMT) service is a
+   new method of recruiting participants and conducting certain types of
+   experiments. This study compares whether participants recruited through
+   AMT give different responses than participants recruited through an
+   online forum or recruited directly on a university campus. Moreover, we
+   compare whether a study conducted within AMT results in different
+   responses compared to a study for which participants are recruited
+   through AMT but which is conducted using an external online
+   questionnaire service. The results of this study show that there is a
+   statistical difference between results obtained from participants
+   recruited through AMT compared to the results from the participant
+   recruited on campus or through online forums. We do, however, argue that
+   this difference is so small that it has no practical consequence. There
+   was no significant difference between running the study within AMT
+   compared to running it with an online questionnaire service. There was
+   no significant difference between results obtained directly from within
+   AMT compared to results obtained in the campus and online forum
+   condition. This may suggest that AMT is a viable and economical option
+   for recruiting participants and for conducting studies as setting up and
+   running a study with AMT generally requires less effort and time
+   compared to other frequently used methods. We discuss our findings as
+   well as limitations of using AMT for empirical studies.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 5
+Z9 5
+UT WOS:000353014700010
+PM 25876027
+ER
+
+PT J
+AU Hao, Tianyong
+   Rusanov, Alexander
+   Boland, Mary Regina
+   Weng, Chunhua
+TI Clustering clinical trials with similar eligibility criteria features
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 52
+BP 112
+EP 120
+DI 10.1016/j.jbi.2014.01.009
+PD DEC 2014
+PY 2014
+AB Objectives: To automatically identify and cluster clinical trials with
+   similar eligibility features.
+   Methods: Using the public repository ClinicalTrials.gov as the data
+   source, we extracted semantic features from the eligibility criteria
+   text of all clinical trials and constructed a trial-feature matrix. We
+   calculated the pairwise similarities for all clinical trials based on
+   their eligibility features. For all trials, by selecting one trial as
+   the center each time, we identified trials whose similarities to the
+   central trial were greater than or equal to a predefined threshold and
+   constructed center-based clusters. Then we identified unique trial sets
+   with distinctive trial membership compositions from center-based
+   clusters by disregarding their structural information.
+   Results: From the 145,745 clinical trials on ClinicalTrials.gov, we
+   extracted 5,508,491 semantic features. Of these, 459,936 were unique and
+   160,951 were shared by at least one pair of trials. Crowdsourcing the
+   cluster evaluation using Amazon Mechanical Turk (MTurk), we identified
+   the optimal similarity threshold, 0.9. Using this threshold, we
+   generated 8806 center-based clusters. Evaluation of a sample of the
+   clusters by MTurk resulted in a mean score 4.331 +/- 0.796 on a scale of
+   1-5 (5 indicating "strongly agree that the trials in the cluster are
+   similar").
+   Conclusions: We contribute an automated approach to clustering clinical
+   trials with similar eligibility features. This approach can be
+   potentially useful for investigating knowledge reuse patterns in
+   clinical trial eligibility criteria designs and for improving clinical
+   trial recruitment. We also contribute an effective crowdsourcing method
+   for evaluating informatics interventions. (C) 2014 Elsevier Inc. All
+   rights reserved.
+Z8 0
+ZR 0
+ZS 0
+ZB 4
+TC 5
+Z9 5
+UT WOS:000347277000013
+PM 24496068
+ER
+
+PT J
+AU Duffy, Ryan D.
+   Allan, Blake A.
+   Autin, Kelsey L.
+   Douglass, Richard P.
+TI Living a Calling and Work Well-Being: A Longitudinal Study
+SO JOURNAL OF COUNSELING PSYCHOLOGY
+VL 61
+IS 4
+BP 605
+EP 615
+DI 10.1037/cou0000042
+PD OCT 2014
+PY 2014
+AB The current study examined the link between living a calling and career
+   commitment, work meaning, and job satisfaction with a diverse group of
+   working adults at 3 time points over a 6-month period. Using structural
+   equation modeling, 3 models were tested that hypothesized that living a
+   calling would predict career commitment, work meaning, and job
+   satisfaction over time. However, counter to hypotheses, living a calling
+   was best positioned as an outcome of each of these variables.
+   Specifically, living a calling at Time 2 and Time 3 was significantly
+   predicted by career commitment, work meaning, and job satisfaction at
+   Time 1 and Time 2, respectively. Time 2 living a calling did predict
+   Time 3 work career commitment and work meaning, but these effects were
+   small. Results suggest that over time, individuals who feel committed to
+   their career, derive more meaning from their work, and are more
+   satisfied with their jobs are more likely to feel they are living a
+   calling. Practical implications are discussed.
+ZR 0
+ZS 0
+ZB 1
+Z8 1
+TC 4
+Z9 5
+UT WOS:000343035300014
+PM 25181588
+ER
+
+PT J
+AU Rothgerber, Hank
+TI Efforts to overcome vegetarian-induced dissonance among meat eaters
+SO APPETITE
+VL 79
+BP 32
+EP 41
+DI 10.1016/j.appet.2014.04.003
+PD AUG 1 2014
+PY 2014
+AB Meat eaters face dissonance whether it results from inconsistency ("I
+   eat meat; I don't like to hurt animals"), aversive consequences ("I eat
+   meat; eating meat harms animals"), or threats to self image ("I eat
+   meat; compassionate people don't hurt animals"). The present work
+   proposes that there are a number of strategies that omnivores adopt to
+   reduce this dissonance including avoidance, dissociation, perceived
+   behavioral change, denial of animal pain, denial of animal mind,
+   pro-meat justifications, reducing perceived choice, and actual
+   behavioral change. The presence of vegetarians was speculated to cause
+   meat eating to be a scrutinized behavior, remind meat eaters of their
+   discomfort, and undermine the effectiveness of these strategies. It was
+   therefore hypothesized that exposure to a description of a vegetarian
+   would lead omnivores to embrace dissonance-reducing strategies.
+   Supporting this hypothesis, participants who read a vignette about a
+   vegetarian denied animal mind more than participants who read about a
+   gluten-free individual. It was also hypothesized that omnivores would be
+   sensitive to individual differences between vegetarians and would
+   demonstrate using dissonance-reducing strategies more when the situation
+   failed to provide cognitions consonant with eating meat or to reduce
+   dissonant cognitions. Four experiments supported this prediction and
+   found that authentic vegetarians, vegetarians freely making the decision
+   to abandon meat, consistent vegetarians, and anticipating moral reproach
+   from vegetarians produced greater endorsement of dissonance-reducing
+   strategies than their counterpart conditions. (C) 2014 Elsevier Ltd. All
+   rights reserved.
+Z8 0
+ZR 0
+ZS 0
+ZB 4
+TC 5
+Z9 5
+UT WOS:000337879900005
+PM 24727102
+ER
+
+PT J
+AU Marcus, David K.
+   Zeigler-Hill, Virgil
+   Mercer, Sterett H.
+   Norris, Alyssa L.
+TI The Psychology of Spite and the Measurement of Spitefulness
+SO PSYCHOLOGICAL ASSESSMENT
+VL 26
+IS 2
+BP 563
+EP 574
+DI 10.1037/a0036039
+PD JUN 2014
+PY 2014
+AB Spite is an understudied construct that has been virtually ignored
+   within the personality, social, and clinical psychology literatures.
+   This study introduces a self-report Spitefulness Scale to assess
+   individual differences in spitefulness. The scale was initially tested
+   on a large sample of 946 college students and cross-validated on a
+   national sample of 297 adults. The scale was internally consistent in
+   both samples. Factor analysis supported a 1-factor solution for the
+   initial pool of 31 items. Item response theory analysis was used to
+   identify the best performing of the original 31 items in the university
+   sample and reduce the scale to 17 items. Tests of measurement invariance
+   indicated that the items functioned similarly across both university and
+   national samples, across both men and women, and across both ethnic
+   majority and minority groups. Men reported higher levels of spitefulness
+   than women, younger people were more spiteful than older people, and
+   ethnic minority members reported higher levels of spitefulness than
+   ethnic majority members. Across both samples, spitefulness was
+   positively associated with aggression, psychopathy, Machiavellianism,
+   narcissism, and guilt-free shame, and negatively correlated with
+   selfesteem, guilt-proneness, agreeableness, and conscientiousness.
+   Ideally, this Spitefulness Scale will be able to predict behavior in
+   both laboratory settings (e. g., ultimatum games, aggression paradigms)
+   and everyday life, contribute to the diagnosis of personality disorders
+   and oppositional defiant disorder, and encourage further study of this
+   neglected, often destructive, trait.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 5
+Z9 5
+UT WOS:000337706000019
+PM 24548150
+ER
+
+PT J
+AU Zou, Christopher
+   Andersen, Judith P.
+   Blosnich, John R.
+TI The Association Between Bullying and Physical Health Among Gay, Lesbian,
+   and Bisexual Individuals
+SO JOURNAL OF THE AMERICAN PSYCHIATRIC NURSES ASSOCIATION
+VL 19
+IS 6
+BP 356
+EP 365
+DI 10.1177/1078390313510739
+PD NOV-DEC 2013
+PY 2013
+AB Background: Research suggests that lesbian, gay, and bisexual (LGB)
+   populations experience higher prevalence of school bullying than
+   heterosexuals. Objectives: We examined if (a) verbal versus physical
+   bullying were differentially associated with physical health among
+   sexual minorities and (b) if sexual identity (i.e., homosexual [i.e.,
+   lesbian/gay] vs. bisexual) moderated the association of bullying on
+   physical health. Design: LGB adults aged 18 to 66 years (n = 463) were
+   recruited online. Participants reported high school experiences of
+   verbal and physical bullying and physician-diagnosed health conditions.
+   Results: Physical and verbal bullying were related to physical health
+   conditions (ps < .01). Physical bullying had a significant negative
+   impact on physical health for bisexual persons (p < .001) but not for
+   gay/lesbian persons. Conclusions: Experiencing bullying in high school
+   was associated with physical health problems in adulthood. Bullying had
+   a different relationship with health problems for bisexually identified
+   individuals compared to lesbian/gay individuals. Future research should
+   strive to disentangle potential differences in the relationship between
+   bullying and health within sexual minority groups.
+ZR 0
+ZS 0
+Z8 1
+ZB 2
+TC 4
+Z9 5
+UT WOS:000337721800004
+PM 24217445
+ER
+
+PT J
+AU Jones, Daniel N.
+TI Risk in the face of retribution: Psychopathic individuals persist in
+   financial misbehavior among the Dark Triad
+SO PERSONALITY AND INDIVIDUAL DIFFERENCES
+VL 67
+BP 109
+EP 113
+DI 10.1016/j.paid.2014.01.030
+PD SEP 2014
+PY 2014
+AB Psychopathy is related to parasitic behavior that is both antisocial and
+   high-risk. Such individuals are unlikely to consider consequences when
+   engaging in selfish financial behavior, even in the face of punishment
+   and financial loss. After completing Dark Triad measures (psychopathy,
+   Machiavellianism, and narcissism), participants were told that everyone
+   could gamble (in a clearly biased game) with the next person's bonus.
+   Participants were then randomly assigned to think their bonus was still
+   intact or nearly depleted. Participants were then given the option to
+   punish the previous participant. Finally, participants were given the
+   option to gamble with the next participant's bonus. Wins benefited
+   current participants, and losses hurt the next participant. Participants
+   were reminded that they could be punished by the next participant and
+   lose everything. Results indicated that all three Dark Triad traits
+   correlated with attempting one round of gambling. However, only
+   individuals high in psychopathy persisted in gambling, leading to
+   greater financial loss of the next participant. These findings highlight
+   the importance of screening for malevolent traits in the financial
+   world, particularly psychopathy. (C) 2014 Elsevier Ltd. All rights
+   reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+UT WOS:000337991400021
+ER
+
+PT J
+AU Xu, Xiaowen
+   Mar, Raymond A.
+   Peterson, Jordan B.
+TI Does Cultural Exposure Partially Explain the Association Between
+   Personality and Political Orientation?
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+VL 39
+IS 11
+BP 1497
+EP 1517
+DI 10.1177/0146167213499235
+PD NOV 2013
+PY 2013
+AB Differences in political orientation are partly rooted in personality,
+   with liberalism predicted by Openness to Experience and conservatism by
+   Conscientiousness. Since Openness is positively associated with
+   intellectual and creative activities, these may help shape political
+   orientation. We examined whether exposure to cultural activities and
+   historical knowledge mediates the relationship between personality and
+   political orientation. Specifically, we examined the mediational role of
+   print exposure (Study 1), film exposure (Study 2), and knowledge of
+   American history (Study 3). Studies 1 and 2 found that print and film
+   exposure mediated the relationships Openness to Experience and
+   Conscientiousness have with political orientation. In Study 3, knowledge
+   of American history mediated the relationship between Openness and
+   political orientation, but not the association between Conscientiousness
+   and political orientation. Exposure to culture, and a corollary of this
+   exposure in the form of acquiring knowledge, can therefore partially
+   explain the associations between personality and political orientation.
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 4
+Z9 4
+UT WOS:000325658200009
+PM 23928399
+ER
+
+PT J
+AU Thomson, Andrew L.
+   Siegel, Jason T.
+TI A moral act, elevation, and prosocial behavior: Moderators of morality
+SO JOURNAL OF POSITIVE PSYCHOLOGY
+VL 8
+IS 1
+BP 50
+EP 64
+DI 10.1080/17439760.2012.754926
+PD JAN 1 2013
+PY 2013
+AB Elevation refers to the feeling experienced when a moral act is
+   witnessed. The current study sought to illuminate elevation by examining
+   conditions under which elevation is amplified. Study 1 demonstrated that
+   the character of the recipient of the moral deed moderates the
+   relationship between witnessing a moral deed and experiencing elevation.
+   Study 2 replicated the first and included a behavioral outcome measure:
+   donation behavior. Study 3 considered an additional factor: the immoral
+   act. Finally, to ensure the character of the recipient is not the sole
+   moderator, Study 4 experimentally tested a second moderating variable
+   (i.e. the effort required for completing the moral act). As a whole,
+   these four studies consistently support Haidts conceptualization of
+   elevation, open the door for a new path of theoretical exploration, and
+   introduce a new line of applied research seeking to maximize prosocial
+   behavior by exposing people to acts of morality.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+UT WOS:000313626500006
+ER
+
+PT J
+AU Xu, Jie
+   van der Schaar, Mihaela
+TI Social Norm Design for Information Exchange Systems with Limited
+   Observations
+SO IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS
+VL 30
+IS 11
+BP 2126
+EP 2135
+DI 10.1109/JSAC.2012.121205
+PD DEC 2012
+PY 2012
+AB Information exchange systems, such as BitTorrent, Yahoo Answers, Yelp,
+   Amazon Mechanical Turk, differ in many ways, but all share a common
+   vulnerability to selfish behavior and free-riding. In this paper, we
+   build incentives schemes based on social norms. Social norms prescribe a
+   social strategy for the agents in the system to follow and deploy
+   reputation schemes to reward or penalize agents depending on whether
+   they follow or deviate from the prescribed strategy when selecting
+   actions. Because agents in these systems often have only limited
+   capability to observe the global system information, e. g. the
+   reputation distribution of the agents participating in the system, their
+   beliefs about the reputation distribution are heterogeneous and biased.
+   Such belief heterogeneity causes a positive fraction of agents to not
+   follow the social strategy. In such practical scenarios, the standard
+   equilibrium analysis deployed in the economics literature is no longer
+   directly applicable and hence, the system design needs to consider these
+   differences. To investigate how the system designs need to change, we
+   focus on a simple social norm with binary reputation labels but allow
+   adjusting the punishment severity through randomization. First, we model
+   the belief heterogeneity using a suitable Bayesian belief function.
+   Next, we formalize the agents' optimal decision problems and derive in
+   which scenarios they follow the prescribed social strategy. Then we
+   study how the system state is determined by the agents' strategic
+   behavior. We are particularly interested in the robust equilibrium where
+   the system state becomes invariant when all agents strategically
+   optimize their decisions. By rigorously studying two specific cases
+   where agents' belief distribution is constant or is linearly influenced
+   by the true reputation distribution, we prove that the optimal
+   reputation update rule is to choose the mildest possible punishment.
+   This result is further confirmed for more sophisticated belief
+   influences in simulations. In conclusion, our proposed design framework
+   enables the development of optimal social norms for various deployment
+   scenarios with limited observations.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+UT WOS:000311673200005
+ER
+
+PT J
+AU Hsu, Kevin J.
+   Rosenthal, A. M.
+   Bailey, J. Michael
+TI The Psychometric Structure of Items Assessing Autogynephilia
+SO ARCHIVES OF SEXUAL BEHAVIOR
+VL 44
+IS 5
+BP 1301
+EP 1312
+DI 10.1007/s10508-014-0397-9
+PD JUL 2015
+PY 2015
+AB Autogynephilia, or paraphilic sexual arousal in a man to the thought or
+   image of himself as a woman, manifests in a variety of different
+   behaviors and fantasies. We examined the psychometric structure of 22
+   items assessing five known types of autogynephilia by subjecting them to
+   exploratory factor analysis in a sample of 149 autogynephilic men.
+   Results of oblique factor analyses supported the ability to distinguish
+   five group factors with suitable items. Results of hierarchical factor
+   analyses suggest that the five group factors were strongly underlain by
+   a general factor of autogynephilia. Because the general factor accounted
+   for a much greater amount of the total variance of the 22 items than did
+   the group factors, the types of autogynephilia that a man has seem less
+   important than the degree to which he has autogynephilia. However, the
+   five types of autogynephilia remain conceptually useful because
+   meaningful distinctions were found among them, including differential
+   rates of endorsement and differential ability to predict other relevant
+   variables like gender dysphoria. Factor-derived scales and subscales
+   demonstrated good internal consistency reliabilities, and validity, with
+   large differences found between autogynephilic men and heterosexual male
+   controls. Future research should attempt to replicate our findings,
+   which were mostly exploratory.
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 3
+Z9 3
+UT WOS:000356247300019
+PM 25277693
+ER
+
+PT J
+AU Brady, Timothy F.
+   Alvarez, George A.
+TI No Evidence for a Fixed Object Limit in Working Memory: Spatial Ensemble
+   Representations Inflate Estimates of Working Memory Capacity for Complex
+   Objects
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+VL 41
+IS 3
+BP 921
+EP 929
+DI 10.1037/xlm0000075
+PD MAY 2015
+PY 2015
+AB A central question for models of visual working memory is whether the
+   number of objects people can remember depends on object complexity. Some
+   influential "slot" models of working memory capacity suggest that people
+   always represent 3-4 objects and that only the fidelity with which these
+   objects are represented is affected by object complexity. The primary
+   evidence supporting this claim is the finding that people can detect
+   large changes to complex objects (consistent with remembering at least 4
+   individual objects), but that small changes cannot be detected
+   (consistent with low-resolution representations). Here we show that
+   change detection with large changes greatly overestimates individual
+   item capacity when people can use global representations of the display
+   to detect such changes. When the ability to use such global ensemble or
+   texture representations is reduced, people remember individual
+   information about only 1-2 complex objects. This finding challenges
+   models that propose people always remember a fixed number of objects,
+   regardless of complexity, and supports a more flexible model with an
+   important role for spatial ensemble representations.
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 3
+Z9 3
+UT WOS:000353908500023
+PM 25419824
+ER
+
+PT J
+AU Norr, Aaron M.
+   Allan, Nicholas P.
+   Boffa, Joseph W.
+   Raines, Amanda M.
+   Schmidt, Norman B.
+TI Validation of the Cyberchondria Severity Scale (CSS): Replication and
+   extension with bifactor modeling
+SO JOURNAL OF ANXIETY DISORDERS
+VL 31
+BP 58
+EP 64
+DI 10.1016/j.janxdis.2015.02.001
+PD APR 2015
+PY 2015
+AB Internet help seeking behaviors are increasingly common. Despite the
+   positives associated with technology, cyberchondria, or the process of
+   increased anxiety in response to internet medical information seeking,
+   is on the rise. The Cyberchondria Severity Scale (CSS) was recently
+   developed to provide a valid measure of cyberchondria across multiple
+   dimensions. The current study sought to extend previous work on the CSS
+   factor structure by examining a bifactor model. Participants (N = 526)
+   from a community sample completed the CSS via online crowd sourcing.
+   Results revealed that the bifactor model of the CSS provided superior
+   fit to the data, suggesting that it is useful to conceptualize the CSS
+   as containing a General Cyberchondria factor that is orthogonal to its
+   subfactors. Similar to previous work, the CSS Mistrust factor does not
+   appear to be necessary to this construct. Finally, results revealed
+   unique relations between General and Specific Cyberchondria factors with
+   lower-order health anxiety dimensions. (C) 2015 Elsevier Ltd. All rights
+   reserved.
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 3
+Z9 3
+UT WOS:000353075500009
+PM 25734759
+ER
+
+PT J
+AU Richman, Stephanie B.
+   DeWall, C. Nathan
+   Wolff, Michelle N.
+TI Avoiding affection, avoiding altruism: Why is avoidant attachment
+   related to less helping?
+SO PERSONALITY AND INDIVIDUAL DIFFERENCES
+VL 76
+BP 193
+EP 197
+DI 10.1016/j.paid.2014.12.018
+PD APR 2015
+PY 2015
+AB Avoidantly, compared to securely, attached people help less often and
+   perceive the costs of helping as more severe. Helping relates to empathy
+   and closeness, which may cause avoidantly attached people discomfort. We
+   tested the hypothesis that reducing the potential for emotional
+   closeness for avoidantly attached people would offset their
+   unhelpfulness with one correlational and one experimental study. In
+   Study 1, amongst a sample of 234 people on Mechanical Turk, avoidant
+   attachment related to donating less money to human- and animal-related
+   charities, but not a charity that did not foster emotional closeness.
+   This relationship was mediated by empathy. In Study 2, amongst a sample
+   of 193 college students, avoidantly attached people who believed that
+   their emotions were temporarily unchangeable helped as much as people
+   low in avoidant attachment. Reducing the potential emotional cost of
+   helping increases helping amongst people who are avoidantly attached.
+   (C) 2014 Elsevier Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+UT WOS:000349268500034
+ER
+
+PT J
+AU Eisenbarth, Hedwig
+   Lilienfeld, Scott O.
+   Yarkoni, Tal
+TI Using a Genetic Algorithm to Abbreviate the Psychopathic Personality
+   Inventory-Revised (PPI-R)
+SO PSYCHOLOGICAL ASSESSMENT
+VL 27
+IS 1
+BP 194
+EP 202
+DI 10.1037/pas0000032
+PD MAR 2015
+PY 2015
+AB Some self-report measures of personality and personality disorders,
+   including the widely used Psychopathic Personality Inventory-Revised
+   (PPI-R), are lengthy and time-intensive. In recent work, we introduced
+   an automated genetic algorithm (GA)-based method for abbreviating
+   psychometric measures. In Study 1, we used this approach to generate a
+   short (40-item) version of the PPI-R using 3 large-N German student
+   samples (total N = 1,590). The abbreviated measure displayed high
+   convergent correlations with the original PPI-R, and outperformed an
+   alternative measure constructed using a conventional approach. Study 2
+   tested the convergent and discriminant validity of this short version in
+   a fourth student sample (N = 206) using sensation-seeking and
+   sensitivity to reward and punishment scales, again demonstrating similar
+   convergent and discriminant validity for the PPI-R-40 compared with the
+   full version. In a fifth community sample of North American participants
+   acquired using Amazon Mechanical Turk, the PPI-R-40 showed similarly
+   high convergent correlations, demonstrating stability across language,
+   culture, and data-collection method. Taken together, these studies
+   suggest that the GA approach is a viable method for abbreviating
+   measures of psychopathy, and perhaps personality measures in general.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+UT WOS:000350974100017
+PM 25436663
+ER
+
+PT J
+AU Stavrositu, Carmen D.
+   Kim, Jinhee
+TI Social media metrics: Third-person perceptions of health information
+SO COMPUTERS IN HUMAN BEHAVIOR
+VL 35
+BP 61
+EP 67
+DI 10.1016/j.chb.2014.02.025
+PD JUN 2014
+PY 2014
+AB The present study investigated the role of social media metrics (i.e.,
+   number of shares and comments) displayed alongside online news stories
+   in shaping users' perceptions of the content and its influence. In a
+   web-based experiment (N = 144), participants first read a cancer news
+   story that displayed either a high or a low level of social media
+   metrics, then reported their perceived story influence on the self and
+   others, as well as their behavioral intentions. In the low social media
+   metrics condition, the general story influence was perceived to be
+   stronger for others than for the self, indicative of the "third-person
+   effect." This effect, however, was diminished to insignificant levels in
+   the high social media metrics condition. Further, social media metrics
+   had an ultimate indirect effect on behavioral intentions via the
+   third-person effect. Theoretical and practical implications of these
+   findings are provided in the end. (C) 2014 Elsevier Ltd. All rights
+   reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+UT WOS:000336878600007
+ER
+
+PT J
+AU Lebowitz, Matthew S.
+   Pyun, John J.
+   Alm, Woo-Kyoung
+TI Biological Explanations of Generalized Anxiety Disorder: Effects on
+   Beliefs About Prognosis and Responsibility
+SO PSYCHIATRIC SERVICES
+VL 65
+IS 4
+BP 498
+EP 503
+DI 10.1176/appi.ps.201300011
+PD APR 2014
+PY 2014
+AB Objective: Biological explanations of psychopathology can reduce the
+   extent to which people with mental disorders are blamed for their
+   symptoms but can also yield prognostic pessimism the belief that
+   psychiatric conditions are relatively immutable. However, few studies
+   have examined whether these effects occur among persons who actually
+   have psychiatric symptoms. This study sought to address this question.
+   Methods: Adults living in the United States (N=351) were recruited
+   online in January and February 2012 and assessed for symptoms of
+   generalized anxiety disorder. The participants were randomly assigned to
+   two groups: a biological condition, in which participants (N=176) were
+   provided a description of generalized anxiety disorder and a biological
+   explanation of the etiology of the disorder, and a control condition, in
+   which participants (N=175) were provided the same description without
+   any explanation of etiology. Dependent measures of treatability,
+   duration of symptoms, and responsibility for symptoms were used to gauge
+   beliefs regarding the prognosis and personal responsibility of a typical
+   person with generalized anxiety disorder. Results: Among participants
+   with and without symptoms of generalized anxiety disorder, the
+   biological condition was associated with decreased ascriptions of
+   personal responsibility for anxiety (p=.02) and expectations of
+   increased duration of symptoms of generalized anxiety disorder (p=.01).
+   Conclusions: This finding has important social and clinical
+   implications, especially because biological conceptualizations of
+   psychopathology are increasingly prevalent. By causing prognostic
+   pessimism about generalized anxiety disorder, including among those with
+   symptoms of the disorder, biological explanations could negatively
+   affect treatment seeking and outcomes. Efforts to dispel the link
+   between biological explanations and prognostic pessimism are needed.
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 3
+Z9 3
+UT WOS:000333545600014
+PM 24337358
+ER
+
+PT J
+AU Ryskin, Rachel A.
+   Brown-Schmidt, Sarah
+TI Do Adults Show a Curse of Knowledge in False-Belief Reasoning? A Robust
+   Estimate of the True Effect Size
+SO PLOS ONE
+VL 9
+IS 3
+AR e92406
+DI 10.1371/journal.pone.0092406
+PD MAR 25 2014
+PY 2014
+AB Seven experiments use large sample sizes to robustly estimate the effect
+   size of a previous finding that adults are more likely to commit
+   egocentric errors in a false-belief task when the egocentric response is
+   plausible in light of their prior knowledge. We estimate the true effect
+   size to be less than half of that reported in the original findings.
+   Even though we found effects in the same direction as the original, they
+   were substantively smaller; the original study would have had less than
+   33% power to detect an effect of this magnitude. The influence of
+   plausibility on the curse of knowledge in adults appears to be small
+   enough that its impact on real-life perspective-taking may need to be
+   reevaluated.
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 3
+Z9 3
+UT WOS:000333675600039
+PM 24667826
+ER
+
+PT J
+AU Tybur, Joshua M.
+   Inbar, Yoel
+   Guler, Ezgi
+   Molho, Catherine
+TI Is the relationship between pathogen avoidance and ideological
+   conservatism explained by sexual strategies?
+SO EVOLUTION AND HUMAN BEHAVIOR
+VL 36
+IS 6
+BP 489
+EP 497
+DI 10.1016/j.evolhumbehav.2015.01.006
+PD NOV 2015
+PY 2015
+AB Multiple recent studies report that measures of pathogen avoidance
+   (e.g., disgust sensitivity) correlate with political ideology. This
+   relationship has been interpreted as suggesting that certain political
+   views (specifically, those views that are categorized as socially
+   conservative) function to mitigate the pathogen threats posed either by
+   intergroup interactions or by departures from traditional societal
+   norms, which sometimes evolve culturally for anti-pathogen functions. We
+   propose and test the alternative hypothesis that pathogen avoidance
+   relates to conservatism indirectly via sexual strategies (e.g.,
+   relatively monogamous versus relatively promiscuous). Specifically, we
+   argue that individuals who are more invested in avoiding pathogens
+   follow a more monogamous mating strategy to mitigate against pathogens
+   transmitted during sexual contact, and individuals following a more
+   monogamous mating strategy adopt socially conservative political
+   ideologies to support their reproductive interests. Results from three
+   studies (N's = 819, 238, and 248) using multiple measures of pathogen
+   avoidance, sexual strategies, and ideology support this account, with
+   sexual strategies fully mediating the relationship between measures of
+   pathogen avoidance and conservatism in each study. (C) 2015 Elsevier
+   Inc. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+UT WOS:000363358900009
+ER
+
+PT J
+AU Palmer, Colin J.
+   Paton, Bryan
+   Enticott, Peter G.
+   Hohwy, Jakob
+TI 'Subtypes' in the Presentation of Autistic Traits in the General Adult
+   Population
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+VL 45
+IS 5
+BP 1291
+EP 1301
+DI 10.1007/s10803-014-2289-1
+PD MAY 2015
+PY 2015
+AB The present study examined the presentation of autistic traits in a
+   large adult population sample (n = 2,343). Cluster analysis indicated
+   two subgroups with clearly distinguishable trait profiles. One group (n
+   = 1,059) reported greater social difficulties and lower detail
+   orientation, while the second group (n = 1,284) reported lesser social
+   difficulties and greater detail orientation. We also report a
+   three-factor solution for the autism-spectrum quotient, with two,
+   related, social-themed factors (Sociability and Mentalising) and a third
+   non-social factor that varied independently (Detail Orientation). These
+   results indicate that different profiles of autistic characteristics
+   tend to occur in the adult nonclinical population. Research into
+   nonclinical variance in autistic features may benefit by considering
+   social- and detail-related trait domains independently.
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 2
+Z9 2
+UT WOS:000353407200015
+PM 25337855
+ER
+
+PT J
+AU de Leeuw, Joshua R.
+TI jsPsych: A JavaScript library for creating behavioral experiments in a
+   Web browser
+SO BEHAVIOR RESEARCH METHODS
+VL 47
+IS 1
+BP 1
+EP 12
+DI 10.3758/s13428-014-0458-y
+PD MAR 2015
+PY 2015
+AB Online experiments are growing in popularity, and the increasing
+   sophistication of Web technology has made it possible to run complex
+   behavioral experiments online using only a Web browser. Unlike with
+   offline laboratory experiments, however, few tools exist to aid in the
+   development of browser-based experiments. This makes the process of
+   creating an experiment slow and challenging, particularly for
+   researchers who lack a Web development background. This article
+   introduces jsPsych, a JavaScript library for the development of
+   Web-based experiments. jsPsych formalizes a way of describing
+   experiments that is much simpler than writing the entire experiment from
+   scratch. jsPsych then executes these descriptions automatically,
+   handling the flow from one task to another. The jsPsych library is
+   open-source and designed to be expanded by the research community. The
+   project is available online at www.jspsych.org.
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 2
+Z9 2
+UT WOS:000349979400001
+PM 24683129
+ER
+
+PT J
+AU Chow, Jason T.
+   Lau, Shun
+TI Nature Gives Us Strength: Exposure to Nature Counteracts Ego-Depletion
+SO JOURNAL OF SOCIAL PSYCHOLOGY
+VL 155
+IS 1
+BP 70
+EP 85
+DI 10.1080/00224545.2014.972310
+PD JAN 2 2015
+PY 2015
+AB Previous research rarely investigated the role of physical environment
+   in counteracting ego-depletion. In the present research, we hypothesized
+   that exposure to natural environment counteracts ego-depletion. Three
+   experiments were conducted to test this hypothesis. In Experiment 1,
+   initially depleted participants who viewed pictures of nature scenes
+   showed greater persistence on a subsequent anagram task than those who
+   were given a rest period. Experiment 2 expanded upon this finding by
+   showing that natural environment enhanced logical reasoning performance
+   after ego-depleting task. Experiment 3 adopted a two- (depletion vs.
+   no-depletion) -by-two (nature exposure vs. urban exposure) factorial
+   design. We found that nature exposure moderated the effect of depletion
+   on anagram task performance. Taken together, the present studies offer a
+   viable and novel strategy to mitigate the negative impacts of
+   ego-depletion.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+UT WOS:000346281600005
+PM 25310796
+ER
+
+PT J
+AU Biel, Joan-Isaac
+   Gatica-Perez, Daniel
+TI Mining Crowdsourced First Impressions in Online Social Video
+SO IEEE TRANSACTIONS ON MULTIMEDIA
+VL 16
+IS 7
+BP 2062
+EP 2074
+DI 10.1109/TMM.2014.2346471
+PD NOV 2014
+PY 2014
+AB While multimedia and social computing research have used crowdsourcing
+   techniques to annotate objects, actions, and scenes in social video
+   sites like YouTube, little work has addressed the crowdsourcing of
+   personal and social traits in online social video or social media
+   content in general. In this paper, we address the problems of (1)
+   crowdsourcing the annotation of first impressions of video bloggers
+   (vloggers) personal and social traits in conversational YouTube videos,
+   and (2) mining the impressions with the goal of modeling the interplay
+   of different vlogger facets. First, we design a human annotation task to
+   crowdsource impressions of vloggers that extends a tradition of studies
+   of personality impressions with the addition of attractiveness and mood
+   impressions. Second, we propose a probabilistic framework using Topic
+   Models to discover prototypical impressions that are data driven, and
+   that combine multiple facets of vloggers. Finally, we address the task
+   of automatically predicting topic impressions using nonverbal and verbal
+   content extracted from videos and comments. Our study of 442 YouTube
+   vlogs and 2,210 annotations collected in Mechanical Turk supports recent
+   literature showing the feasibility to crowdsource interpersonal human
+   impression with comparable quality to what is reported in social
+   psychology research, and provides insights on the interplay among human
+   first impressions. We also show that topic models are useful to discover
+   meaningful prototypical impressions that can be validated by humans, and
+   that different topics can be predicted using different sources of
+   information from vloggers' nonverbal and verbal content, as well as
+   comments from the audience.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+UT WOS:000344720300022
+ER
+
+PT J
+AU Swan, Lawton K.
+   Heesacker, Martin
+TI Evidence of a Pronounced Preference for Therapy Guided by Common Factors
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+VL 69
+IS 9
+BP 869
+EP 879
+DI 10.1002/jclp.21967
+PD SEP 2013
+PY 2013
+AB ObjectiveRecent evidence presented in this journal (Swift & Callahan,
+   2010) suggests that psychotherapy clients may place more value on
+   nonspecific common factorssuch as a warm and relatable therapistthan on
+   the level of empirical support for a particular intervention. The
+   present study investigated the possibility that this trend would also
+   extend to those who have never received professional psychological help.
+   MethodThree hundred and twenty-nine adults from across the United States
+   (60.2% female, mean age = 35.92) each rated their attitudes toward
+   seeking two varieties of psychotherapy: one emphasizing nonspecific
+   common factors, and one emphasizing specific evidence-based therapy
+   ingredients.
+   ResultsAnalyses revealed a pronounced preference for therapy guided by
+   common factors among clients and nonclients alike, even when controlling
+   for a host of individual difference variables.
+   ConclusionsThese data conceptually replicate Swift and Callahan's
+   findings and indicate that potential clients may seek help more readily
+   from providers who accentuate the nonspecific aspects of therapy.(C)
+   2013 Wiley Periodicals, Inc.
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 2
+Z9 2
+UT WOS:000329214000001
+PM 23381782
+ER
+
+PT J
+AU Giacopelli, Nicole M.
+   Simpson, Kaila M.
+   Dalal, Reeshad S.
+   Randolph, Kristen L.
+   Holland, Samantha J.
+TI Maximizing as a predictor of job satisfaction and performance: A tale of
+   three scales
+SO JUDGMENT AND DECISION MAKING
+VL 8
+IS 4
+BP 448
+EP 469
+PD JUL 2013
+PY 2013
+AB Research on individual differences in maximizing (versus satisficing)
+   has recently proliferated in the Judgment and Decision Making
+   literature, and high scores on this construct have been linked to lower
+   life satisfaction as well as, in some cases, to worse decision-making
+   performance. The current study exported this construct to the
+   organizational domain and evaluated the utility of the three most widely
+   used measures of maximizing in predicting several criteria of interest
+   to organizational researchers: job satisfaction, intentions to quit the
+   organization, performance in the job role, and income. Moreover, this
+   study used relative weight analyses to determine the relative importance
+   of maximizing and two dispositional variables (conscientiousness and
+   core self-evaluations) that are traditionally used to predict these
+   criteria in the organizational literature. Results indicate that
+   relationships between maximizing and these criteria are influenced by
+   the way in which maximizing is measured. Yet, regardless of how it is
+   measured, maximizing is not a particularly strong predictor of these
+   criteria compared to traditional organizational predictors. Limitations
+   and future research directions are discussed.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+UT WOS:000322988500005
+ER
+
+PT J
+AU Winterboer, Andi K.
+   Tietze, Martin I.
+   Wolters, Maria K.
+   Moore, Johanna D.
+TI The user model-based summarize and refine approach improves information
+   presentation in spoken dialog systems
+SO COMPUTER SPEECH AND LANGUAGE
+VL 25
+IS 2
+SI SI
+BP 175
+EP 191
+DI 10.1016/j.csl.2010.04.003
+PD APR 2011
+PY 2011
+AB A common task for spoken dialog systems (SDS) is to help users select a
+   suitable option (e.g., flight, hotel, and restaurant) from the set of
+   options available. As the number of options increases, the system must
+   have strategies for generating summaries that enable the user to browse
+   the option space efficiently and successfully. In the user-model based
+   summarize and refine approach (UMSR, Demberg and Moore, 2006), options
+   are clustered to maximize utility with respect to a user model, and
+   linguistic devices such as discourse cues and adverbials are used to
+   highlight the trade-offs among the presented items. In a Wizard-of-Oz
+   experiment, we show that the UMSR approach leads to improvements in task
+   success, efficiency, and user satisfaction compared to an approach that
+   clusters the available options to maximize coverage of the domain
+   (Polifroni et al., 2003). In both a laboratory experiment and a
+   web-based experimental paradigm employing the Amazon Mechanical Turk
+   platform, we show that the discourse cues in UMSR summaries help users
+   compare different options and choose between options, even though they
+   do not improve verbatim recall. This effect was observed for both
+   written and spoken stimuli. (C) 2010 Elsevier Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+UT WOS:000284670200005
+ER
+
+PT J
+AU Harris, Jonathan Gil
+TI Mechanical turks, mammet tricks and messianic time
+SO POSTMEDIEVAL-A JOURNAL OF MEDIEVAL CULTURAL STUDIES
+VL 1
+IS 1-2
+BP 80
+EP 87
+DI 10.1057/pmed.2010.10
+PD SPR-SUM 2010
+PY 2010
+AB This essay considers the uncannily persistent figure of the Mechanical
+   Turk, a spectre that haunts medieval theology, early modern theatre and
+   modern philosophy alike. In all three cases, it functions as the
+   mechanical, inhuman antitype of a futurity figured as meaningful and
+   human. These attributes are materialized also in the Renaissance
+   'mammet' or mechanical puppet, an object whose name bears the trace of a
+   supposedly lifeless and regressive Islam. Turning to Romeo and Juliet,
+   the essay concludes with a consideration of how Shakespeare's play
+   deploys the mammet to counter-intuitive, untimely ends: by figuring
+   Juliet as a mammet whose mechanical compulsions enable a messianic
+   refusal of the old patronymic law, Romeo and Juliet explodes the
+   temporal as much as ontological distinctions between human and machine,
+   Christian and non-Christian, pre and post.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+UT WOS:000208310000010
+ER
+
+PT J
+AU Thomas, David C.
+   Liao, Yuan
+   Aycan, Zeynep
+   Cerdin, Jean-Luc
+   Pekerti, Andre A.
+   Ravlin, Elizabeth C.
+   Stahl, Guenter K.
+   Lazarova, Mila B.
+   Fock, Henry
+   Arli, Denni
+   Moeller, Miriam
+   Okimoto, Tyler G.
+   van de Vijver, Fons
+TI Cultural intelligence: A theory-based, short form measure
+SO JOURNAL OF INTERNATIONAL BUSINESS STUDIES
+VL 46
+IS 9
+SI SI
+BP 1099
+EP 1118
+DI 10.1057/jibs.2014.67
+PD DEC 2015
+PY 2015
+AB This article reports the development and validation of a theory-based,
+   short form measure of cultural intelligence (SFCQ). The SFCQ captures
+   the original theoretical intent of a multifaceted culture general form
+   of intelligence that is related to effective intercultural interactions.
+   The validity of the scale is established with 3526 participants in five
+   language groups from around the world. Results provide evidence for
+   construct and criterion-related validity of the measure, and indicate
+   that cultural intelligence is a single latent factor reflected in three
+   intermediate facets. In support of construct validity the measure is
+   modestly related to but distinct from emotional intelligence and
+   personality and correlates positively with several indicators of
+   multicultural experience. With regard to criterion-related validity, it
+   relates as predicted to several dimensions of intercultural
+   effectiveness. Implications for the measurement and understanding of
+   culture and the influence of culture on management practice are
+   discussed.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000365031300005
+ER
+
+PT J
+AU Singh, Gurjit
+   Lau, Sin-Tung
+   Pichora-Fuller, M. Kathleen
+TI Social Support Predicts Hearing Aid Satisfaction
+SO EAR AND HEARING
+VL 36
+IS 6
+BP 664
+EP 676
+DI 10.1097/AUD.0000000000000182
+PD NOV-DEC 2015
+PY 2015
+AB Objectives: The goals of the current research were to determine: (1)
+   whether there is a relationship between perceived social support and
+   hearing aid satisfaction, and (2) how well perceived social support
+   predicts hearing aid satisfaction relative to other correlates
+   previously identified in the literature.
+   Design: In study 1, 173 adult age = 68.9 years; SD = 13.4) users of
+   hearing aids completed a survey assessing attitudes toward health,
+   hearing, and hearing aids, as well as a questionnaire assessing Big-Five
+   personality factors (Openness to Experience, Conscientiousness,
+   Extraversion, Agreeableness, and Neuroticism) either using paper and
+   pencil or the Internet. In a follow-up study designed to replicate and
+   extend the results from study 1, 161 adult age = 32.8 years; SD = 13.3)
+   users of hearing aids completed a similar survey on the Internet. In
+   study 2, participants also completed a measure of hearing aid benefit
+   and reported the style of their hearing aid.
+   Results: In studies 1 and 2, perceived social support was significantly
+   correlated with hearing aid satisfaction (respectively, r = 0.34, r =
+   0.51, ps < 0.001). The results of a regression analysis revealed that in
+   study 1, 22% of the variance in hearing aid satisfaction scores was
+   predicted by perceived social support, satisfaction with one's hearing
+   health care provider, duration of daily hearing aid use, and openness.
+   In study 2, 43% of the variance in hearing aid satisfaction was
+   predicted by perceived social support, hearing aid benefit, neuroticism,
+   and hearing aid style. Overall, perceived social support was the best
+   predictor of hearing aid satisfaction in both studies. After controlling
+   for response style (i.e., acquiescence or the tendency to respond
+   positively), the correlation between perceived social support and
+   hearing aid satisfaction remained the same in study 1 (r = 0.34, p <
+   0.001) and was lower in study 2 (r = 0.39, p < 0.001), although the
+   change in correlation was not significant.
+   Conclusions: The results from study 1 provide evidence to suggest that
+   perceived social support is a significant predictor of satisfaction with
+   hearing aids, a finding that was replicated in a different sample of
+   participants investigated in study 2. A significant relationship between
+   perceived social support and hearing aid satisfaction was observed in
+   both studies, even though the composition of the two samples differed in
+   terms of age, relationship status, income, proportion of individuals
+   with unilateral versus bilateral hearing impairment, and lifetime
+   experience with hearing aids. The results from both studies 1 and 2
+   provide no support for the claim that participant response style
+   accounts for the relationship between hearing aid satisfaction and
+   perceived social support.
+Z8 0
+ZR 0
+ZS 0
+TC 0
+ZB 1
+Z9 1
+UT WOS:000364410900004
+PM 26035144
+ER
+
+PT J
+AU Effron, Daniel A.
+   Lucas, Brian J.
+   O'Connor, Kieran
+TI Hypocrisy by association: When organizational membership increases
+   condemnation for wrongdoing
+SO ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+VL 130
+BP 147
+EP 159
+DI 10.1016/j.obhdp.2015.05.001
+PD SEP 2015
+PY 2015
+AB Hypocrisy occurs when people fail to practice what they preach. Four
+   experiments document the hypocrisy-by-association effect, whereby
+   failing to practice what an organization preaches can make an employee
+   seem hypocritical and invite moral condemnation. Participants judged
+   employees more harshly for the same transgression when it was
+   inconsistent with ethical values the employees' organization promoted,
+   and ascriptions of hypocrisy mediated this effect (Studies 1-3). The
+   results did not support the possibility that inconsistent transgressions
+   simply seemed more harmful. In Study 4, participants were less likely to
+   select a job candidate whose transgression did (vs. did not) contradict
+   a value promoted by an organization where he had once interned. The
+   results suggest that employees are seen as morally obligated to uphold
+   the values that their organization promotes, even by people outside of
+   the organization. We discuss how observers will judge someone against
+   different ethical standards depending on where she or he works. (C) 2015
+   Elsevier Inc. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000359964300012
+ER
+
+PT J
+AU Baruch, Rachel Levine
+   Vishnevsky, Bella
+   Kalman, Thomas
+TI Split-Care Patients and Their Caregivers How Collaborative is
+   Collaborative Care?
+SO JOURNAL OF NERVOUS AND MENTAL DISEASE
+VL 203
+IS 6
+BP 412
+EP 417
+DI 10.1097/NMD.0000000000000297
+PD JUN 2015
+PY 2015
+AB This study assessed the experiences of patients receiving split-care
+   treatment, focusing on communication between the two treating
+   professionals and its impact on patient satisfaction. Studies have
+   documented that for more than 20% of patients, no communication occurs
+   between providers, and the present study provides further data.
+   Split-care patients completed a 23-item questionnaire on SurveyMonkey
+   via Mechanical Turk, a crowd-sourcing Website, assessing patients'
+   split-care experiences, including whether their providers had
+   communicated and the impact of communication on patients' satisfaction
+   with treatment. Of respondents who knew if their providers communicated,
+   30% reported that no communication occurred. Similarly, 30% and 36% of
+   respondents were never asked by their psychotherapist or
+   psychopharmacologist, respectively, for permission to speak to the other
+   professional. Non-communication yielded significantly lower patient
+   satisfaction with treatment. This study replicates the high frequency of
+   non-communication between providers of split care and has great
+   implications for the impact of communication on treatment compliance and
+   outcome.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000356234500003
+PM 25938507
+ER
+
+PT J
+AU Harris, Jenine K.
+   Mart, Adelina
+   Moreland-Russell, Sarah
+   Caburnay, Charlene A.
+TI Diabetes Topics Associated With Engagement on Twitter
+SO PREVENTING CHRONIC DISEASE
+VL 12
+AR E62
+DI 10.5888/pcd12.140402
+PD MAY 2015
+PY 2015
+AB Introduction Social media are widely used by the general public and by
+   public health and health care professionals. Emerging evidence suggests
+   engagement with public health information on social media may influence
+   health behavior. However, the volume of data accumulating daily on
+   Twitter and other social media is a challenge for researchers with
+   limited resources to further examine how social media influence health.
+   To address this challenge, we used crowd-sourcing to facilitate the
+   examination of topics associated with engagement with diabetes
+   information on Twitter.
+   Methods We took a random sample of 100 tweets that included the hashtag
+   "#diabetes" from each day during a constructed week in May and June
+   2014. Crowdsourcing through Amazon's Mechanical Turk platform was used
+   to classify tweets into 9 topic categories and their senders into 3
+   Twitter user categories. Descriptive statistics and Tweedie regression
+   were used to identify tweet and Twitter user characteristics associated
+   with 2 measures of engagement, "favoriting" and "retweeting."
+   Results Classification was reliable for tweet topics and Twitter user
+   type. The most common tweet topics were medical and nonmedical resources
+   for diabetes. Tweets that included information about diabetes- related
+   health problems were positively and significantly associated with
+   engagement. Tweets about diabetes prevalence, nonmedical resources for
+   diabetes, and jokes or sarcasm about diabetes were significantly
+   negatively associated with engagement.
+   Conclusion Crowdsourcing is a reliable, quick, and economical option for
+   classifying tweets. Public health practitioners aiming to engage
+   constituents around diabetes may want to focus on topics positively
+   associated with engagement.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000356763400003
+PM 25950569
+ER
+
+PT J
+AU Wickham, Robert E.
+   Reed, David E.
+   Williamson, Rachel E.
+TI Establishing the psychometric properties of the Self and
+   Perceived-partner Authenticity in Relationships Scale-Short Form
+   (AIRS-SF): Measurement invariance, reliability, and incremental validity
+SO PERSONALITY AND INDIVIDUAL DIFFERENCES
+VL 77
+BP 62
+EP 67
+DI 10.1016/j.paid.2014.12.049
+PD APR 2015
+PY 2015
+AB This article evaluates the psychometric properties of Self and
+   Perceived-partner versions of the Authenticity in Relationships Scale
+   (AIRS; Lopez & Rice, 2006). Two samples were collected. Sample 1 (N =
+   487) was comprised of romantically involved adults residing in the
+   United States, recruited from the Amazon Mechanical Turk, who completed
+   Self and Perceived-partner versions of the AIRS, along with a number of
+   other self-report measures. Confirmatory factor analysis was used to
+   establish measurement invariance across Self and Perceived-partner
+   versions of the scale and eliminate non-essential items. The revised
+   12-item short-form (AIRS-SF) exhibited excellent reliability in the
+   validation sample, as well as a holdout sample of romantically involved
+   college students (N = 112). Multi-group path analysis provided
+   additional evidence for the incremental validity of the AIRS-SF.
+   Consistent with prior experimental work, the Perceived-partner AIRS-SF
+   predicts relationship satisfaction and commitment through interpersonal
+   trust, independent of attachment avoidance. (C) 2015 Elsevier Ltd. All
+   rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000350181900012
+ER
+
+PT J
+AU Kriner, Douglas L.
+   Shen, Francis X.
+TI Reassessing American Casualty Sensitivity: The Mediating Influence of
+   Inequality
+SO JOURNAL OF CONFLICT RESOLUTION
+VL 58
+IS 7
+BP 1174
+EP 1201
+DI 10.1177/0022002713492638
+PD OCT 2014
+PY 2014
+AB Scholars have long conceptualized public support for war as the product
+   of a cost-benefit calculation in which combat casualties factor
+   significantly. This article argues that, when calculating the human
+   costs of conflict, Americans care about more than just the number of war
+   dead; they also care about the distribution of those casualties across
+   society. Using two original survey experiments, we show that
+   inequalities in sacrifice affect Americans' casualty sensitivity. We
+   find strong evidence that learning about socioeconomic inequalities in
+   casualties in previous wars decreases Americans' casualty tolerance
+   toward future military endeavors. These effects are stronger for some
+   mission types, particularly non-humanitarian interventions, than others.
+   The effects are also concentrated among Americans from states that
+   suffered high casualty rates in the Iraq War. Our results suggest that
+   raising public awareness of inequalities in wartime sacrifice could
+   significantly strengthen popular constraints on policy makers
+   contemplating military solutions to future crises.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000342576900002
+ER
+
+PT J
+AU Belanger, Jocelyn J.
+   Caouette, Julie
+   Sharvit, Keren
+   Dugas, Michelle
+TI The Psychology of Martyrdom: Making the Ultimate Sacrifice in the Name
+   of a Cause
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+VL 107
+IS 3
+BP 494
+EP 515
+DI 10.1037/a0036855
+PD SEP 2014
+PY 2014
+AB Martyrdom is defined as the psychological readiness to suffer and
+   sacrifice one's life for a cause. An integrative set of 8 studies
+   investigated the concept of martyrdom by creating a new tool to
+   quantitatively assess individuals' propensity toward self-sacrifice.
+   Studies 1A-1C consisted of psychometric work attesting to the scale's
+   unidimensionality, internal consistency, and temporal stability while
+   examining its nomological network. Studies 2A-2B focused on the scale's
+   predictive validity, especially as it relates to extreme behaviors and
+   suicidal terrorism. Studies 3-5 focused on the influence of
+   self-sacrifice on automatic decision making, costly and altruistic
+   behaviors, and morality judgments. Results involving more than 2,900
+   participants from different populations, including a terrorist sample,
+   supported the proposed conceptualization of martyrdom and demonstrated
+   its importance for a vast repertoire of cognitive, emotional, and
+   behavioral phenomena. Implications and future directions for the
+   psychology of terrorism are discussed.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000348334600007
+PM 25133728
+ER
+
+PT J
+AU Hahl, Oliver
+   Zuckerman, Ezra W.
+TI The Denigration of Heroes? How the Status Attainment Process Shapes
+   Attributions of Considerateness and Authenticity
+SO AMERICAN JOURNAL OF SOCIOLOGY
+VL 120
+IS 2
+BP 504
+EP 554
+DI 10.1086/678304
+PD SEP 2014
+PY 2014
+AB This article develops and tests a theory to explain the common tendency
+   to "denigrate heroes," whereby high-status actors are suspected of being
+   inconsiderate and inauthentic relative to low-status counterparts. This
+   tendency is argued to reflect two conditions typical of status
+   attainment processes: (a) assertions of superiority over others and (b)
+   the presence of incentives to pursue status. The latter is key since
+   awareness of such incentives breeds suspicions of inauthenticity, which
+   in turn undermine perceptions of prosocial intentions. This theory is
+   validated in a series of online experiments, in which categorical status
+   hierarchies emerge either via deference on a coordinated task or via
+   competitive interactions. Results show that high-status actors may also
+   be " celebrated" as authentic and considerate when the observable
+   incentive structure is such that assertions of superiority appear as
+   unintended by-products of prosocial action. Implications are drawn
+   regarding the sources of instability and insecurity in status
+   hierarchies.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000349769200005
+PM 25811070
+ER
+
+PT J
+AU Shen, Jianhong
+   Mack, Michael L.
+   Palmeri, Thomas J.
+TI Studying real-world perceptual expertise
+SO FRONTIERS IN PSYCHOLOGY
+VL 5
+AR 857
+DI 10.3389/fpsyg.2014.00857
+PD AUG 6 2014
+PY 2014
+AB Significant insights into visual cognition have come from studying
+   real-world perceptual expertise. Many have previously reviewed empirical
+   findings and theoretical developments from this work. Here we instead
+   provide a brief perspective on approaches, considerations, and
+   challenges to studying real-world perceptual expertise.We discuss
+   factors like choosing to use real-world versus artificial object domains
+   of expertise, selecting a target domain of real-world perceptual
+   expertise, recruiting experts, evaluating their level of expertise, and
+   experimentally testing experts in the lab and online. Throughout our
+   perspective, we highlight expert birding (also called birdwatching) as
+   an example, as it has been used as a target domain for over two decades
+   in the perceptual expertise literature.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000340707700002
+PM 25147533
+ER
+
+PT J
+AU Tenenbaum, Rachel Z.
+   Byrne, Conor J.
+   Dahling, Jason J.
+TI Interactive Effects of Physical Disability Severity and Age of
+   Disability Onset on RIASEC Self-Efficacies
+SO JOURNAL OF CAREER ASSESSMENT
+VL 22
+IS 2
+BP 274
+EP 289
+DI 10.1177/1069072713493981
+PD MAY 2014
+PY 2014
+AB In this study, the authors focused on the context of physical
+   disabilities (i.e., one's age when a disability manifests and the
+   severity with which it impacts major life activities) to better
+   understand how disabilities influence vocational self-efficacies.
+   Consistent with Social Cognitive Career Theory, age of onset moderated
+   the relationship between disability severity and self-efficacies in the
+   Realistic, Artistic, Social, and Conventional vocational domains.
+   Specifically, disability severity had a strong, negative impact on
+   self-efficacies for people who became physically disabled later in life.
+   In contrast, the relationship between disability severity and
+   self-efficacy was nonsignificant for people who became disabled in early
+   childhood. These findings held across Holland's Realistic,
+   Investigative, Artistic, Social, Enterprising, and Conventional domains
+   when controlling for a variety of other person inputs and
+   domain-specific learning experiences.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000334456000006
+ER
+
+PT J
+AU Karim, Michael N.
+   Behrend, Tara S.
+TI Reexamining the Nature of Learner Control: Dimensionality and Effects on
+   Learning and Training Reactions
+SO JOURNAL OF BUSINESS AND PSYCHOLOGY
+VL 29
+IS 1
+BP 87
+EP 99
+DI 10.1007/s10869-013-9309-6
+PD MAR 2014
+PY 2014
+AB The purpose of this study was to advance learner control as a
+   psychological construct by reexamining its dimensionality and effects on
+   learning and reactions in the context of technology-delivered training.
+   Learners (n=384) completed a 2-h web-based Microsoft Excel training. The
+   amount of instructional and scheduling control was manipulated in order
+   to introduce variance in control perceptions. Outcome measures included
+   off-task attention, declarative knowledge, and training reactions.
+   Learner control is a multidimensional construct with differential
+   effects on training outcomes. By focusing on learners' perceptions of
+   control, we found that instructional control perceptions decreased
+   learning by increasing off-task attention, while scheduling control
+   perceptions increased learning.
+   Though both dimensions of perceived learner control are positively
+   related to training reactions, they differentially predict learning.
+   Combined with factor analytic evidence, our study suggests that learner
+   control research should differentiate between objective and perceived
+   learner control, and between instructional and scheduling control
+   perceptions. Organizations should consider how learner control affects
+   learning prior to designing training.
+   Scheduling control is an often used but rarely researched form of
+   learner control. We address this gap by expanding the construct domain
+   of learner control to include scheduling control. Further, this study
+   provides the first empirical examination of learner control perceptions.
+   Despite calls for learner control literature to differentiate between
+   objective and perceived control, no study had previously examined
+   control perceptions directly. Our results may be used to inform
+   organizational decisions regarding the amount and type of control
+   included in training.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000331382600007
+ER
+
+PT J
+AU D'Mello, Sidney
+   Mills, Caitlin
+TI Emotions while writing about emotional and non-emotional topics
+SO MOTIVATION AND EMOTION
+VL 38
+IS 1
+BP 140
+EP 156
+DI 10.1007/s11031-013-9358-1
+PD FEB 2014
+PY 2014
+AB Research on the effects of expressive writing about emotional
+   experiences and traumatic events has a long history in the affective and
+   social sciences. However, very little is known about the incidence and
+   impact of affective states when the writing activities are not
+   explicitly emotional or are less emotionally charged. By integrating
+   goal-appraisal and network theories of affect within cognitive process
+   models of writing, we hypothesize that writing triggers a host of
+   affective states, some of which are tied to the topic of the essays
+   (topic affective states), while others are more closely related to the
+   cognitive processes involved in writing (process affective states). We
+   tested this hypothesis with two experiments involving fine-grained
+   tracking of affect while participants wrote short essays on topics that
+   varied in emotional intensity including topics used in standardized
+   tests, to socially charged issues, and personal emotional experiences.
+   The results indicated that (a) affect collectively accounted for a
+   majority of the observations compared to neutral, (b) boredom,
+   engagement/flow, anxiety, frustration, and happiness were most frequent
+   affective states, (c) there was evidence for a proposed, but not
+   mutually exclusive, distinction between process and topic affective
+   states, (d) certain topic affective states were predictive of the
+   quality of the essays, irrespective of the valence of these states, and
+   (e) individual differences in scholastic aptitude, writing apprehension,
+   and exposure to print correlated with affect frequency in expected
+   directions. Implications of our findings for research focused on
+   monitoring affect during everyday writing activities are discussed.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000330382800011
+ER
+
+PT J
+AU Hui, Chin Ming
+   Bond, Michael Harris
+   Molden, Daniel C.
+TI Why Do(n't) Your Partner's Efforts at Self-Improvement Make You Happy?
+   An Implicit Theories Perspective
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+VL 38
+IS 1
+BP 101
+EP 113
+DI 10.1177/0146167211420734
+PD JAN 2012
+PY 2012
+AB People often try to improve their interpersonal skills to satisfy
+   romantic partners. However, when and why a partner appreciates these
+   efforts is an important but underaddressed question. The present
+   research explored how people's theories that interpersonal abilities are
+   either fixed entities or can be changed incrementally affect their
+   responses to relationship partner's efforts at self-improvement. Study 1
+   validated a new measure for these theories and showed that, compared to
+   the former entity theorists, the latter incremental theorists were less
+   likely to attribute recalled instances of partners' negative behaviors
+   to dispositional causes and perceive these behaviors as fixed and
+   stable. An experiment that induced these different implicit theories
+   (Study 2) and a longitudinal study (Study 3) further demonstrated that
+   perceptions of partners' self-improvement efforts led to greater
+   increases in relationship security and quality among incremental than
+   among entity theorists. How implicit theories may shape the
+   interpersonal dynamics of self-improvement is discussed.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+UT WOS:000298744300009
+PM 21868493
+ER
+
+PT J
+AU Fessler, Daniel M. T.
+   Holbrook, Colin
+   Dashoff, David
+TI Dressed to kill? Visible markers of coalitional affiliation enhance
+   conceptualized formidability
+SO AGGRESSIVE BEHAVIOR
+VL 42
+IS 3
+BP 299
+EP 309
+DI 10.1002/ab.21624
+PD MAY-JUN 2016
+PY 2016
+AB Displaying markers of coalitional affiliation is a common feature of
+   contemporary life. In situations in which interaction with members of
+   rival coalitions is likely, signaling coalitional affiliation may
+   simultaneously constitute an implicit challenge to opponents and an
+   objective commitment device, binding signalers to their coalitions.
+   Individuals who invite conflict, and who cannot readily back out of
+   conflict, constitute a greater threat than those who avoid conflict and
+   preserve the option of feigning neutrality. As a consequence, the former
+   should be viewed as more formidable than the latter. Recent research
+   indicates that relative formidability is summarized using the envisioned
+   physical size and strength of a potential antagonist. Thus, individuals
+   who display markers of coalitional affiliation should be conceptualized
+   as more physically imposing than those who do not. We tested this
+   prediction in two experiments. In Study 1, conducted with U.S.
+   university students, participants inspected images of sports fans'
+   faces. In Study 2, conducted with U.S. Mechanical Turk workers,
+   participants read vignettes depicting political partisans. In both
+   studies, participants estimated the physical formidability of the target
+   individuals and reported their own ability to defend themselves; in
+   Study 2, participants estimated the target's aggressiveness. Consonant
+   with predictions, targets depicted as signaling coalitional affiliation
+   in situations of potential conflict were envisioned to be more
+   physically formidable and more aggressive than were those not depicted
+   as signaling thusly. Underscoring that the calculations at issue concern
+   the possibility of violent conflict, participants' estimates of the
+   protagonist's features were inversely correlated with their ability to
+   defend themselves. Aggr. Behav. 42:299-309, 2016. (c) 2016 Wiley
+   Periodicals, Inc.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000374342100007
+PM 26847927
+ER
+
+PT J
+AU Donaldson, Candice D.
+   Siegel, Jason T.
+   Crano, William D.
+TI Nonmedical use of prescription stimulants in college students:
+   Attitudes, intentions, and vested interest
+SO ADDICTIVE BEHAVIORS
+VL 53
+BP 101
+EP 107
+DI 10.1016/j.addbeh.2015.10.007
+PD FEB 2016
+PY 2016
+AB Introduction: Research on vested interest theory (VIT) indicates that
+   the importance and hedonic relevance of attitudes moderates the link
+   between attitudes and attitude-congruent behavior. Though largely
+   untested in prevention research, this relationship may prove crucial in
+   determining the success or failure of prevention efforts. The current
+   study was designed to determine if subjectively perceived vested
+   interest maximized the association between attitudes and intentions
+   regarding the nonmedical use of prescription stimulants (NUPS).
+   Methods: A cross-sectional survey was conducted with college student
+   respondents (N = 162) using Amazon's MTurk. Participant age ranged from
+   19 to 49 years old. A subsample analysis (n = 129) was also conducted
+   with younger respondents, as the typical college student is usually
+   under the age of 30.
+   Results: Four-step hierarchical regression analysis indicated that both
+   attitudes and perceived vested interest were significantly associated
+   with NUPS behavioral intentions (p <.001). Further, vested interest
+   moderated the relationship between stimulant-related attitudes and usage
+   intentions (p <.001). Attitudes were significantly associated with
+   intentions of moderately and highly vested respondents (p <.001), but
+   not those of participants expressing low levels of perceived vested
+   interest.
+   Conclusions: Findings support the proposition that vested interest may
+   be a useful target for attenuating NUPS. Rather than attempting to
+   weaken positive attitudes toward NUPS, campaigns may prove more
+   successful if designed to convince receivers that NUPS is not in their
+   best interest. (C) 2016 Elsevier Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000367278800016
+ER
+
+PT J
+AU Reitz-Krueger, Cristina L.
+   Warner, Todd C.
+   Newsham, Rebecca L.
+   Reppucci, N. Dickon
+TI Who's to Blame? Perceptions of Adolescents' Maturity and Responsibility
+   in Sexual Relationships With an Older Partner
+SO PSYCHOLOGY PUBLIC POLICY AND LAW
+VL 22
+IS 1
+BP 105
+EP 113
+DI 10.1037/law0000065
+PD FEB 2016
+PY 2016
+AB The wide variation in statutory rape and consent laws across states
+   demonstrates a lack of consensus regarding adolescents' competency to
+   make sexual decisions. This study investigated perceptions of
+   adolescents' sexual relationships with older partners from 2 different
+   samples: a sample of young adults and a sample of parents of teenagers.
+   Younger partner age and partner age difference were varied across 15
+   vignettes. Participants (N = 229) read each vignette, and then rated the
+   younger partner's maturity and both partners' responsibility for the
+   sexual relationship. Though young adults rated the younger partner as
+   more mature and responsible than the parents did, both young adults and
+   parents viewed adolescents as more able to consent and more responsible
+   for sexual relationships as the age of the younger partner increased and
+   partner age difference decreased. These results suggest that statutory
+   rape and consent laws that consider factors such as partner age
+   difference may be viewed more legitimately than those with strict ages
+   of consent.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000370166700009
+ER
+
+PT J
+AU Campbell, John
+   Chao, Bernard
+   Robertson, Christopher
+   Yokum, David V.
+TI Countering the Plaintiff's Anchor: Jury Simulations to Evaluate Damages
+   Arguments
+SO IOWA LAW REVIEW
+VL 101
+IS 2
+BP 543
+EP 571
+PD JAN 2016
+PY 2016
+AB Numerous studies have shown that the amount of a juror's damages
+   decision is strongly affected by the number suggested by the plaintiff's
+   attorney, independent of the strength of the actual evidence (a
+   psychological effect known as "anchoring"). For scholars and
+   policymakers, this behavior is worrisome for the legitimacy and accuracy
+   of jury decisions, especially in the domain of non-economic damages
+   (e.g., pain and suffering). One noted paper even concluded that "the
+   more you ask for, the more you get." Others believe that the damage
+   demand must pass the "straight-face" test because outlandishly high
+   demands will diminish credibility and risk the plaintiff losing
+   outright.
+   Can defendants effectively rebut an anchor? One strategy is for
+   defendants to offer a "counter-anchor"-a much lower proposed damage
+   award than the plaintiff's. However, defense attorneys worry that juries
+   may interpret such a strategy as a concession of liability. Based on
+   this fear, some defendants allow the plaintiff's anchor to go
+   unrebutted. But this strategy, like counter-anchors, has not been
+   rigorously studied.
+   To answer these questions, we conducted a randomized controlled
+   experiment in which we exposed mock jurors to a shortened medical
+   malpractice trial, manipulated with six different sets of damages
+   arguments in factorial design.
+   The plaintiff demanded either $250,000 or $5 million non-economic
+   damages. The defendant responded in one of three ways: (I) offering the
+   counter-anchor that, if any damages are awarded, they should only be
+   $50,000; (2) ignoring the plaintiff's damage demand; or (3) attacking
+   the plaintiff's demand as outrageous. Mock jurors were then asked to
+   render a decision on both liability and damages. These individual
+   jurors' results were then combined with eleven other randomly selected
+   jurors' decisions to create a mock "jury" decision.
+   Our study confirmed that anchoring has a powerful effect on damages, and
+   a small negative effect on liability determinations. However, for the
+   expected value of the case the average award when both liability and
+   damage award are considered these "credibility effects" were overwhelmed
+   by anchoring effects. Our study also revealed that high anchors are
+   difficult to counter. Although we found some variation in the efficacy
+   of defense strategies when plaintiffs anchored low, none of these
+   strategies were an effective antidote to the plaintiffs' high anchor.
+   Additionally, and contrary to conventional belief, the defendant's
+   choice to offer a lower counter-anchor award did not adversely affect
+   liability determinations. This result challenges concerns that such
+   tactics effectively "concede" liability. These findings have important
+   implications for policy and litigation strategy.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000367205700002
+ER
+
+PT J
+AU Lutz, Johannes
+TI The Validity of Crowdsourcing Data in Studying Anger and Aggressive
+   Behavior A Comparison of Online and Laboratory Data
+SO SOCIAL PSYCHOLOGY
+VL 47
+IS 1
+BP 38
+EP 51
+DI 10.1027/1864-9335/a000256
+PD 2016
+PY 2016
+AB Crowdsourcing platforms provide an affordable approach for recruiting
+   large and diverse samples in a short time. Past research has shown that
+   researchers can obtain reliable data from these sources, at least in
+   domains of research that are not affectively involving. The goal of the
+   present study was to test if crowdsourcing platforms can also be used to
+   conduct experiments that incorporate the induction of aversive affective
+   states. First, a laboratory experiment with German university students
+   was conducted in which a frustrating task induced anger and aggressive
+   behavior. This experiment was then replicated online using five
+   crowdsourcing samples. The results suggest that participants in the
+   online samples reacted very similarly to the anger manipulation as
+   participants in the laboratory experiments. However, effect sizes were
+   smaller in crowdsourcing samples with non-German participants while a
+   crowdsourcing sample with exclusively German participants yielded
+   virtually the same effect size as in the laboratory.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000371918700005
+ER
+
+PT J
+AU Bikmen, Nida
+TI Still a Nation of Immigrants? Effects of Constructions of National
+   History on Attitudes toward Immigrants
+SO ANALYSES OF SOCIAL ISSUES AND PUBLIC POLICY
+VL 15
+IS 1
+BP 282
+EP 302
+DI 10.1111/asap.12080
+PD DEC 2015
+PY 2015
+AB In the United States, the phrase nation of immigrants is used to both
+   promote and restrict immigration. Those who use the phrase to promote
+   immigration point to the similarities between current and previous
+   generations of immigrants, whereas those who use it to restrict
+   immigration emphasize the differences between the two generations. The
+   present study examined the effects of the different versions of this
+   historical narrative (similarity-focused vs. difference-focused) on 210
+   U.S. residents' attitudes toward immigrants during the recent debate
+   about immigration reform. Exposure to the similarity-focused nation of
+   immigrants reduced perceptions of threat from Mexican immigrants but did
+   not affect the already low level of perceived threat from Russian
+   immigrants. The similarity-focused version of nation of immigrants
+   exerted an indirect effect on perceived threat from both groups by
+   inducing a sense of identity continuity, which reduced collective angst
+   about the future of the people of the United States. The findings
+   suggest that pro-immigration policy makers clearly articulate the
+   meaning of nation of immigrants rather than use it as a cliche as the
+   phrase has the potential to induce inclusive attitudes.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000366975400015
+ER
+
+PT J
+AU Maheux, Annie
+   Price, Matthew
+TI Investigation of the Relation Between PTSD Symptoms and Self-Compassion:
+   Comparison Across DSM IV and DSM 5 PTSD Symptom Clusters
+SO SELF AND IDENTITY
+VL 14
+IS 6
+BP 627
+EP 637
+DI 10.1080/15298868.2015.1037791
+PD NOV 2 2015
+PY 2015
+AB Self-compassion is posited to protect against posttraumatic stress
+   disorder (PTSD) symptoms after exposure to traumatic events. Prior work
+   has suggested self-compassion may only be related to avoidance symptoms
+   using DSM IV criteria. Changes to the diagnosis in DSM 5 may have
+   changed these relations. The current study examined the relation between
+   self-compassion and PTSD symptoms using DSM IV and DSM 5 criteria. PTSD
+   symptoms and self-compassion were evaluated in two trauma-exposed
+   samples using measures that corresponded to DSM IV and DSM 5 criteria.
+   Self-compassion was negatively correlated with aggregated PTSD symptoms
+   for DSM IV and DSM 5. Self-compassion was correlated with avoidance
+   symptoms for DSM IV but was correlated with all symptom clusters for the
+   DSM 5. These results suggest that self-compassion may protect against
+   PTSD symptoms using the most recent diagnostic criteria.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000365238600001
+ER
+
+PT J
+AU Zou, Christopher
+   Andersen, Judith P.
+TI Comparing the Rates of Early Childhood Victimization across Sexual
+   Orientations: Heterosexual, Lesbian, Gay, Bisexual, and Mostly
+   Heterosexual
+SO PLOS ONE
+VL 10
+IS 10
+AR e0139198
+DI 10.1371/journal.pone.0139198
+PD OCT 7 2015
+PY 2015
+AB Few studies have examined the rates of childhood victimization among
+   individuals who identify as "mostly heterosexual" (MH) in comparison to
+   other sexual orientation groups. For the present study, we utilized a
+   more comprehensive assessment of adverse childhood experiences to extend
+   prior literature by examining if MH individuals' experience of
+   victimization more closely mirrors that of sexual minority individuals
+   or heterosexuals. Heterosexual (n = 422) and LGB (n = 561) and MH (n =
+   120) participants were recruited online. Respondents completed surveys
+   about their adverse childhood experiences, both maltreatment by adults
+   (e.g., childhood physical, emotional, and sexual abuse and childhood
+   household dysfunction) and peer victimization (i.e., verbal and physical
+   bullying). Specifically, MH individuals were 1.47 times more likely than
+   heterosexuals to report childhood victimization experiences perpetrated
+   by adults. These elevated rates were similar to LGB individuals. Results
+   suggest that rates of victimization of MH groups are more similar to the
+   rates found among LGBs, and are significantly higher than heterosexual
+   groups. Our results support prior research that indicates that an MH
+   identity falls within the umbrella of a sexual minority, yet little is
+   known about unique challenges that this group may face in comparison to
+   other sexual minority groups.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000362510600045
+PM 26444428
+ER
+
+PT J
+AU Attridge, Nina
+   Noonan, Donna
+   Eccleston, Christopher
+   Keogh, Edmund
+TI The disruptive effects of pain on n-back task performance in a large
+   general population sample
+SO PAIN
+VL 156
+IS 10
+BP 1885
+EP 1891
+DI 10.1097/j.pain.0000000000000245
+PD OCT 2015
+PY 2015
+AB Pain captures attention, displaces current concerns, and prioritises
+   escape and repair. This attentional capture can be measured by its
+   effects on general cognition. Studies on induced pain, naturally
+   occurring acute pain, and chronic pain all demonstrate a detrimental
+   effect on specific tasks of attention, especially those that involve
+   working memory. However, studies to date have relied on relatively small
+   samples and/or one type of pain, thus restricting our ability to
+   generalise to wider populations. We investigated the effect of pain on
+   an n-back task in a large heterogeneous sample of 1318 adults.
+   Participants were recruited from the general population and tested
+   through the internet. Despite the heterogeneity of pain conditions,
+   participant characteristics, and testing environments, we found a
+   performance decrement on the n-back task for those with pain, compared
+   with those without pain; there were significantly more false alarms on
+   nontarget trials. Furthermore, we also found an effect of pain
+   intensity; performance was poorer in participants with higher intensity
+   compared with that in those with lower intensity pain. We suggest that
+   the effects of pain on attention found in the laboratory occur in more
+   naturalistic settings. Pain is common in the general population, and
+   such interruption may have important, as yet uninvestigated,
+   consequences for tasks of everyday cognition that involve working
+   memory, such as concentration, reasoning, motor planning, and
+   prospective memory.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000363362200008
+PM 26020226
+ER
+
+PT J
+AU Garcia, Danilo
+   Adrianson, Lillemor
+   Archer, Trevor
+   Rosenberg, Patricia
+TI The Dark Side of the Affective Profiles: Differences and Similarities in
+   Psychopathy, Machiavellianism, and Narcissism
+SO SAGE OPEN
+VL 5
+IS 4
+AR 2158244015615167
+DI 10.1177/2158244015615167
+PD OCT-DEC 2015
+PY 2015
+AB The affective profiles model is based on the combination of individuals'
+   experience of high/low positive affect and high/low negative affect:
+   self-fulfilling, high affective, low affective, and self-destructive. We
+   used the profiles as the backdrop for the investigation of individual
+   differences in malevolent character traits (i.e., the Dark Triad:
+   psychopathy, Machiavellianism, and narcissism). A total of 1,000
+   participants (age: M = 31.50 SD = 10.27, 667 males and 333 females),
+   recruited through Amazons' Mechanical Turk (MTurk), responded to the
+   Positive Affect Negative Affect Schedule and the Dark Triad Dirty Dozen.
+   Individuals with a high affective profile reported higher degree of
+   narcissism than those with any other profile, and together with
+   individuals with a self-destructive profile, also higher degree of
+   Machiavellianism and psychopathy than individuals with a low affective
+   and self-fulfilling profile. Males scored higher in Machiavellianism and
+   psychopathy. Together with earlier findings, our results show that while
+   individuals in both the self-fulfilling and high affective profiles are
+   extrovert and self-directed, only those in the high affective profile
+   express an immature and malevolent character (i.e., high levels of all
+   Dark Triad traits). Conversely, individuals in the self-fulfilling
+   profile have earlier reported higher levels of cooperativeness and
+   faith. More importantly, the unique association between high levels of
+   positive emotions and narcissism and the unified association between
+   negative emotions to both psychopathy and Machiavellianism imply a dyad
+   rather than a triad of malevolent character traits.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000369478000072
+ER
+
+PT J
+AU Seligowski, Antonia V.
+   Orcutt, Holly K.
+TI Examining the Structure of Emotion Regulation: A Factor-Analytic
+   Approach
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+VL 71
+IS 10
+BP 1004
+EP 1022
+DI 10.1002/jclp.22197
+PD OCT 2015
+PY 2015
+AB Objective: Critiques of self-report indices of emotion regulation
+   suggest that its measurement is in need of more critical investigation.
+   The current study examined the factor structure of emotion regulation as
+   informed by Gross' (1998a) Process Model: Situation Selection,
+   Attentional Deployment, Cognitive Change, and Response Modulation.
+   Method: A sample of 553 participants was recruited using Amazon's
+   Mechanical Turk (M-age = 37.12, SD = 13.66; n = 352 female).
+   Confirmatory factor analysis with maximum likelihood estimation was
+   performed in Mplus. Results: A four-factor model of emotion regulation
+   demonstrated poor fit. An alternative five-factor model fit the data
+   well: CFI = .94, TLI = .93, RMSEA = .07. Conclusion: Emotion regulation
+   may be better conceptualized as a combination of specific strategy use
+   and a broader construct, called "emotional distancing" (a trait-like
+   disposition towards emotions). Further research is required to determine
+   if the observed five-factor model can be replicated in more diverse
+   samples. (C) 2015 Wiley Periodicals, Inc.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000363733100005
+PM 26202046
+ER
+
+PT J
+AU Siegel, Jason T.
+   Navarro, Mario A.
+   Thomson, Andrew L.
+TI The impact of overtly listing eligibility requirements on MTurk: An
+   investigation involving organ donation, recruitment scripts, and
+   feelings of elevation
+SO SOCIAL SCIENCE & MEDICINE
+VL 142
+BP 256
+EP 260
+DI 10.1016/j.socscimed.2015.08.020
+PD OCT 2015
+PY 2015
+AB Rationale: Investigations conducted through Amazon's Mechanical Turk
+   (MTurk) sometimes explicitly note eligibility requirements when
+   recruiting participants; however, the impact of this practice on data
+   integrity is relatively unexplored within the MTurk context.
+   Objective: Contextualized in the organ donor registration domain, the
+   current study assessed whether overtly listing eligibility requirements
+   impairs the accuracy of data collected on MTurk.
+   Methods: On day 1, the first and third round of data collection did not
+   list eligibility requirements; the second and fourth round overtly
+   listed a qualification requirement: status as a non-registered organ
+   donor. On day 2, the approach was identical, except the order was
+   reversed the first and third round overtly listed the study
+   qualifications, while the second and fourth did not. These procedures
+   provided eight different waves of data. In addition, all participants
+   were randomly assigned to read an elevating (i.e., morally inspiring)
+   story or a story not intended to elicit any emotion. Regardless of
+   recruitment approach, only participants who were not registered as
+   donors were included in the analysis.
+   Results: Results indicated that the recruitment script that explicitly
+   requested non-registered donors resulted in the collection of
+   participants with higher mean intentions scores than the script that did
+   not overtly list the eligibility requirements. Further, even though the
+   elevation induction increased intentions to register as a donor, there
+   was not a significant interaction between recruitment approach and the
+   influence of the elevation manipulation on registration intentions.
+   Conclusion: Explicitly listing eligibility requirements can influence
+   the accuracy of estimates derived from data collected through MTurk. (C)
+   2015 Elsevier Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000362060900028
+PM 26322721
+ER
+
+PT J
+AU Newman, Eryn J.
+   Garry, Maryanne
+   Unkelbach, Christian
+   Bernstein, Daniel M.
+   Lindsay, D. Stephen
+   Nash, Robert A.
+TI Truthiness and Falsiness of Trivia Claims Depend on Judgmental Contexts
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+VL 41
+IS 5
+BP 1337
+EP 1348
+DI 10.1037/xlm0000099
+PD SEP 2015
+PY 2015
+AB When people rapidly judge the truth of claims presented with or without
+   related but nonprobative photos, the photos tend to inflate the
+   subjective truth of those claims-a "truthiness" effect (Newman et al.,
+   2012). For example, people more often judged the claim "Macadamia nuts
+   are in the same evolutionary family as peaches" to be true when the
+   claim appeared with a photo of a bowl of macadamia nuts than when it
+   appeared alone. We report several replications of that effect and 3
+   qualitatively new findings: (a) in a within-subjects design, when people
+   judged claims paired with a mix of related, unrelated, or no photos,
+   related photos produced truthiness but unrelated photos had no
+   significant effect relative to no photos; (b) in a mixed design, when
+   people judged claims paired with related (or unrelated) and no photos,
+   related photos produced truthiness and unrelated photos produced
+   "falseness;" and (c) in a fully between design, when people judged
+   claims paired with either related, unrelated, or no photos, neither
+   truthiness nor falsiness occurred. Our results suggest that photos
+   influence people's judgments when a discrepancy arises in the expected
+   ease of processing, and also support a mechanism in which-against a
+   backdrop of an expected standard-related photos help people generate
+   pseudoevidence to support claims.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000361038900006
+PM 25822783
+ER
+
+PT J
+AU Raines, Amanda M.
+   Allan, Nicholas P.
+   Oglesby, Mary E.
+   Short, Nicole A.
+   Schmidt, Norman B.
+TI Examination of the relations between obsessive-compulsive symptom
+   dimensions and fear and distress disorder symptoms
+SO JOURNAL OF AFFECTIVE DISORDERS
+VL 183
+BP 253
+EP 257
+DI 10.1016/j.jad.2015.05.013
+PD SEP 1 2015
+PY 2015
+AB Background: Whereas prior work has established fear and distress
+   clusters underlying unipolar mood and anxiety disorders, the optimal
+   placement of obsessive-compulsive disorder (OCD) within this model is
+   unclear. One likely contributor to this ambiguity is the heterogeneous
+   nature of OCD. There is increasing evidence for distinct symptom
+   dimensions that are more homogenous than the broad OCD phenotype. Using
+   structural equation modeling, the current study examined the relations
+   between various OCD symptom dimensions and symptoms associated with
+   fear/distress disorders.
+   Methods: Participants included 526 individuals recruited from an online
+   crowdsourcing marketplace.
+   Results: Results revealed that the symmetry obsessions/arranging
+   compulsions, harm obsessions/checking compulsions, and unacceptable
+   thoughts/neutralizing compulsions were related to both fear and distress
+   disorder symptoms, whereas the contamination obsessions/washing
+   compulsions dimension of OCD was specifically related to fear disorder
+   symptoms.
+   Limitations: Limitations include the use of self-report questionnaires
+   to measure all constructs of interest.
+   Conclusions: These findings add to a growing body of literature
+   attesting to the multidimensional nature of OCD and progress our
+   understanding of the etiological underpinnings of this severe and
+   debilitating condition. (C) 2015 Elsevier B.V. All rights reserved
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000356361500034
+PM 26042633
+ER
+
+PT J
+AU Campisi, Jay
+   Folan, Denis
+   Diehl, Grace
+   Kable, Timothy
+   Rademeyer, Candice
+TI Social media users have different experiences, motivations, and quality
+   of life
+SO PSYCHIATRY RESEARCH
+VL 228
+IS 3
+BP 774
+EP 780
+DI 10.1016/j.psychres.2015.04.042
+PD AUG 30 2015
+PY 2015
+AB While the number of individuals participating in internet-based social
+   networks has continued to rise, it is unclear how participating in
+   social networks might influence quality of life (QOL). Individuals
+   differ in their experiences, motivations for, and amount of time using
+   intemet-based social networks, therefore, we examined if individuals
+   differing in social network user experiences, motivations and frequency
+   of social network also differed in self-reported QOL. Two-hundred and
+   thirty-seven individuals (aged 1865) were recruited online using the
+   online platform Mechanical Turk (MTurk). All participants completed a
+   web-based survey examining social network use and the World Health
+   Organization Quality of Life Scale Abbreviated Version (WHOQOL-Bref) to
+   assess QOL. Individuals who reported positive associations with the use
+   of social networks demonstrated higher QOL while those reporting
+   negative associates demonstrated lower QOL. Moreover, individuals using
+   social networks to stay connected to friends demonstrated higher QOL
+   while those using social networking for dating purposes reported lower
+   QOL Frequency of social network use did not relate to QOL. These results
+   suggest that QOL differs among social network users. Thus, participating
+   in social networking may be a way to either promote or detract from QOL.
+   (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000360251400079
+PM 26054935
+ER
+
+PT J
+AU Yarkoni, Tal
+   Ashar, Yoni K.
+   Wager, Tor D.
+TI Interactions between donor Agreeableness and recipient characteristics
+   in predicting charitable donation and positive social evaluation
+SO PEERJ
+VL 3
+AR e1089
+DI 10.7717/peerj.1089
+PD AUG 18 2015
+PY 2015
+AB Agreeable people are more likely to display prosocial attitudes and
+   helpful behavior in a broad range of situations. Here we show that this
+   tendency interacts with the personal characteristics of interaction
+   partners. In an online study (n = 284), participants were given the
+   opportunity to report attitudes toward and make monetary donations to
+   needy individuals who were described in dynamically generated
+   biographies. Using a machine learning and multilevel modeling framework,
+   we tested three potential explanations for the facilitatory influence of
+   Agreeableness on charitable behavior. We find that Agreeableness
+   preferentially increased donations and prosocial attitudes toward
+   targets normatively rated as being more deserving. Our results advance
+   understanding of person-by-situation interactions in the context of
+   charitable behavior and prosocial attitudes.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000360846700001
+PM 26312168
+ER
+
+PT J
+AU Quisenberry, Amanda J.
+   Eddy, Celia R.
+   Patterson, David L.
+   Franck, Christopher T.
+   Bickel, Warren K.
+TI Regret Expression and Social Learning Increases Delay to Sexual
+   Gratification
+SO PLOS ONE
+VL 10
+IS 8
+AR e0135977
+DI 10.1371/journal.pone.0135977
+PD AUG 17 2015
+PY 2015
+AB Objective
+   Modification and prevention of risky sexual behavior is important to
+   individuals' health and public health policy. This study employed a
+   novel sexual discounting task to elucidate the effects of social
+   learning and regret expression on delay to sexual gratification in a
+   behavioral task.
+   Methods
+   Amazon Mechanical Turk Workers were assigned to hear one of three
+   scenarios about a friend who engages in similar sexual behavior. The
+   scenarios included a positive health consequence, a negative health
+   consequence or a negative health consequence with the expression of
+   regret. After reading one scenario, participants were asked to select
+   from 60 images, those with whom they would have casual sex. Of the
+   selected images, participants chose one image each for the person they
+   most and least want to have sex with and person most and least likely to
+   have a sexually transmitted infection. They then answered questions
+   about engaging in unprotected sex now or waiting some delay for
+   condom-protected sex in each partner condition.
+   Results
+   Results indicate that the negative health outcome scenario with regret
+   expression resulted in delayed sexual gratification in the most
+   attractive and least STI partner conditions, whereas in the least
+   attractive and most STI partner conditions the negative health outcome
+   with and without regret resulted in delayed sexual gratification.
+   Conclusions
+   Results suggest that the sexual discounting task is a relevant
+   laboratory measure and the framing of information to include regret
+   expression may be relevant for prevention of risky sexual behavior.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000359664300030
+PM 26280349
+ER
+
+PT J
+AU Caza, Arran
+   Zhang, Gang
+   Wang, Lu
+   Bai, Yuntao
+TI How do you really feel? Effect of leaders' perceived emotional sincerity
+   on followers' trust
+SO LEADERSHIP QUARTERLY
+VL 26
+IS 4
+SI SI
+BP 518
+EP 531
+DI 10.1016/j.leaqua.2015.05.008
+PD AUG 2015
+PY 2015
+AB We extend research on leadership and emotions by addressing two
+   previously under-researched areas. Prior research has focused primarily
+   on the valence of leaders' displayed emotion and on followers' affective
+   reactions to those displays. In contrast, we examined followers'
+   cognitive reactions to the perceived sincerity of leaders' displayed
+   emotion. Study 1 found that American workers' trust in a leader was
+   related to their perceptions of that leader's emotional sincerity. Study
+   2 replicated these results among Chinese workers, and further indicated
+   the mechanisms through which perceived emotional sincerity influenced
+   trust and showed how trust influenced performance. The findings
+   demonstrate the importance of including emotional sincerity in studies
+   of leader affect, and suggest the value of adding a cognitive
+   perspective to the current focus on followers' affective reactions to
+   their leaders' emotions. (C) 2015 Elsevier Inc. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000360186600004
+ER
+
+PT J
+AU Suchow, Jordan W.
+TI Building a Social Network One Choice at a Time
+SO PLOS ONE
+VL 10
+IS 7
+AR e0133463
+DI 10.1371/journal.pone.0133463
+PD JUL 17 2015
+PY 2015
+AB Newcomers to a social network show preferential attachment, a tendency
+   to befriend those with many friends. Here, we show that preferential
+   attachment is equivalent to a form of 'probability matching' commonly
+   found in studies of decision-making. This equivalence, whereby newcomers
+   probability match to a social signal akin to popularity, marries network
+   science to the study of decision-making and raises new questions about
+   how individual psychology impacts the social structure of groups. We
+   asked people to view a visualization of a social network and to select
+   group members whom they would like to meet and befriend. People varied
+   in how strongly they weighed popularity and this was mildly correlated
+   with aspects of their personality. Individual differences in
+   preferential attachment affect the structure and connectivity of the
+   network that emerges.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000358198700142
+PM 26186607
+ER
+
+PT J
+AU Gaspar, Joseph P.
+   Seabright, Mark A.
+   Reynolds, Scott J.
+   Yam, Kai Chi
+TI Counterfactual and Factual Reflection: The Influence of Past Misdeeds on
+   Future Immoral Behavior
+SO JOURNAL OF SOCIAL PSYCHOLOGY
+VL 155
+IS 4
+BP 370
+EP 380
+DI 10.1080/00224545.2015.1015477
+PD JUL 4 2015
+PY 2015
+AB Though the decision to behave immorally is situated within the context
+   of prior immoral behavior, research has provided contradictory insights
+   into this process. In a series of experiments, we demonstrate that the
+   effects of prior immoral behavior depend on how individuals think about,
+   or reflect on, their immoral behavior. In Experiment 1, participants who
+   reflected counterfactually on their prior moral lapses morally
+   disengaged (i.e., rationalized) less than participants who reflected
+   factually. In Experiment 2, participants who reflected counterfactually
+   on their prior moral lapses experienced more guilt than those who
+   reflected factually. Finally, in Experiments 3 and 4, participants who
+   reflected counterfactually lied less on unrelated tasks with real
+   monetary stakes than those who reflected factually. Our studies provide
+   important insights into moral rationalization and moral compensation
+   processes and demonstrate the profound influence of reflection in
+   everyday moral life.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000356322900007
+PM 25668142
+ER
+
+PT J
+AU Stroessner, Steven J.
+   Scholer, Abigail A.
+   Marx, David M.
+   Weisz, Bradley M.
+TI When threat matters: Self-regulation, threat salience, and stereotyping
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+VL 59
+BP 77
+EP 89
+DI 10.1016/j.jesp.2015.03.003
+PD JUL 2015
+PY 2015
+AB Four experiments examined whether information implying imminent threat
+   to safety would interact with regulatory focus (Higgins, 1997) to affect
+   the utilization of threat-relevant stereotypes. Because information
+   suggesting imminent danger is more relevant to the safety goals of
+   prevention-focused individuals than the advancement goals of
+   promotion-focused individuals, utilization of threat-relevant
+   stereotypes was expected to increase under such conditions only under
+   prevention focus. Support for this prediction was obtained in four
+   distinct and socially important domains. Using scenarios describing a
+   violent crime committed by an African-American male (Experiment 1) or a
+   petty crime committed by an undocumented immigrant (Experiment 2),
+   prevention-focused individuals made judgments consistent with
+   stereotypes when threat was perceived to be high rather than low. In
+   studies that manipulated the stereotypicality of the target in a
+   terrorism scenario (Experiments 3 & 4), prevention-focused individuals
+   were more likely to endorse scrutinizing a stereotypical compared with a
+   non-stereotypical target when terrorism was described as an increasing
+   problem. Implications for models of stereotyping, self-regulation, and
+   responding to threat are discussed. (c) 2015 Published by Elsevier Inc.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000355497400011
+ER
+
+PT J
+AU Shaer, Orit
+   Nov, Oded
+   Okerlund, Johanna
+   Balestra, Martina
+   Stowell, Elizabeth
+   Ascher, Laura
+   Bi, Joanna
+   Schlenker, Claire
+   Ball, Madeleine
+TI Informing the Design of Direct-to-Consumer Interactive Personal Genomics
+   Reports
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 17
+IS 6
+BP E146
+EP U186
+DI 10.2196/jmir.4415
+PD JUN 2015
+PY 2015
+AB Background: In recent years, people who sought direct-to-consumer
+   genetic testing services have been increasingly confronted with an
+   unprecedented amount of personal genomic information, which influences
+   their decisions, emotional state, and well-being. However, these users
+   of direct-to-consumer genetic services, who vary in their education and
+   interests, frequently have little relevant experience or tools for
+   understanding, reasoning about, and interacting with their personal
+   genomic data. Online interactive techniques can play a central role in
+   making personal genomic data useful for these users.
+   Objective: We sought to (1) identify the needs of diverse users as they
+   make sense of their personal genomic data, (2) consequently develop
+   effective interactive visualizations of genomic trait data to address
+   these users' needs, and (3) evaluate the effectiveness of the developed
+   visualizations in facilitating comprehension.
+   Methods: The first two user studies, conducted with 63 volunteers in the
+   Personal Genome Project and with 36 personal genomic users who
+   participated in a design workshop, respectively, employed surveys and
+   interviews to identify the needs and expectations of diverse users.
+   Building on the two initial studies, the third study was conducted with
+   730 Amazon Mechanical Turk users and employed a controlled experimental
+   design to examine the effectiveness of different design interventions on
+   user comprehension.
+   Results: The first two studies identified searching, comparing, sharing,
+   and organizing data as fundamental to users' understanding of personal
+   genomic data. The third study demonstrated that interactive and visual
+   design interventions could improve the understandability of personal
+   genomic reports for consumers. In particular, results showed that a new
+   interactive bubble chart visualization designed for the study resulted
+   in the highest comprehension scores, as well as the highest perceived
+   comprehension scores. These scores were significantly higher than scores
+   received using the industry standard tabular reports currently used for
+   communicating personal genomic information.
+   Conclusions: Drawing on multiple research methods and populations, the
+   findings of the studies reported in this paper offer deep understanding
+   of users' needs and practices, and demonstrate that interactive online
+   design interventions can improve the understandability of personal
+   genomic reports for consumers. We discuss implications for designers and
+   researchers.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000356819800013
+PM 26070951
+ER
+
+PT J
+AU Sevier, Justin
+TI Testing Tribe's Triangle: Juries, Hearsay, and Psychological Distance
+SO GEORGETOWN LAW JOURNAL
+VL 103
+IS 4
+BP 879
+EP 931
+PD APR 2015
+PY 2015
+AB Since its inception, evidence policymakers have vacillated with respect
+   to whether the rule barring hearsay evidence at trial is a doctrine
+   designed to promote decisional accuracy or a doctrine designed to
+   promote procedural justice.
+   To the extent that policymakers view the rule barring hearsay evidence
+   as promoting decisional accuracy, the rationale for this view stems from
+   the "testimonial triangle" promulgated by Professor Laurence Tribe,
+   which conceptualizes the objections to hearsay evidence at common law
+   Tribe's testimonial triangle states that (1) several infirmities lurk
+   behind all testimony provided in court, and (2) testimony based on
+   hearsay is subject to two sets of infirmities-those of the in-court
+   witness and those of the original declarant. With respect to hearsay
+   evidence, policymakers fear that jurors do not attend appropriately to
+   the infirmities of the original declarant who is not subject to in-court
+   cross-examination and will give hearsay evidence undue weight.
+   This Article reports the results of the first empirical examination of
+   the testimonial triangle. The studies reported in this Article suggest
+   that, consistent with behavioral science research on implicit goal
+   activation and psychological distance, jurors are attuned to the
+   testimonial infirmities that lurk beneath hearsay evidence and discount
+   the evidence defensibly. These findings have important implications for
+   the hearsay doctrine, for the contentious debate over juror competency,
+   and for practicing attorneys who make decisions about hearsay evidence
+   at trial. They also provide a theoretical framework for further
+   empirical hearsay research and suggest that policymakers should focus
+   their debate over the hearsay doctrine on the degree to which the
+   doctrine promotes procedural justice, not decisional accuracy.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000354500700002
+ER
+
+PT J
+AU Crangle, Colleen E.
+   Kart, Joyce Brothers
+TI A questions-based investigation of consumer mental-health information
+SO PEERJ
+VL 3
+AR e867
+DI 10.7717/peerj.867
+PD MAR 31 2015
+PY 2015
+AB Despite the wealth of mental-health information available online to
+   consumers, research has shown that the mental-health information needs
+   of consumers are not being met. This study contributes to that research
+   by soliciting consumer questions directly, categorizing them, analyzing
+   their form, and assessing the extent to which they can be answered from
+   a trusted and vetted source of online information, namely the website of
+   the US National Institute of Mental Health (NIMH). As an alternative to
+   surveys and analyses of online activity, this study shows how consumer
+   questions provide new insight into what consumers do not know and how
+   they express their information needs. The study crowdsourced 100
+   consumer questions through Amazon Inc.'s Mechanical Turk. Categorization
+   of the questions shows broad agreement with earlier studies in terms of
+   the content of consumer questions. It also suggests that consumers'
+   grasp of mental health issues may be low compared to other health
+   topics. The majority of the questions (74%) were simple in form, with
+   the remainder being multi-part, multifaceted or narrative. Even
+   simple-form questions could, however, have complex interpretations.
+   Fifty four questions were submitted to the search box at the NIMH
+   website. For 32 questions, no answer could be found in the top one to
+   three documents returned. Inadequacies in the search and retrieval
+   technology deployed at websites account for some of the failure to find
+   answers. The nature of consumer questions in mental health also plays a
+   role. A question that has a false presupposition is less likely to have
+   an answer in trusted and vetted sources of information. Consumer
+   questions are also expressed with a degree of specificity that makes the
+   retrieval of relevant information difficult. The significance of this
+   study is that it shows what an analysis of consumer mental-health
+   questions can tell us about consumer information needs and it provides
+   new insight into the difficulties facing consumers looking for answers
+   to their questions in online resources.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000352299200004
+PM 25870768
+ER
+
+PT J
+AU Halkjelsvik, Torleif
+   Rise, Jostein
+TI Disgust in fear appeal anti-smoking advertisements: The effects on
+   attitudes and abstinence motivation
+SO DRUGS-EDUCATION PREVENTION AND POLICY
+VL 22
+IS 4
+BP 362
+EP 369
+DI 10.3109/09687637.2015.1015491
+PD 2015
+PY 2015
+AB Aims: The use of fear appeals with disgusting graphical content is part
+   of current practice in health campaigns. Previous studies have suggested
+   both a detrimental and a beneficial effect of disgust in fear appeals on
+   different types of outcome measures. We were interested in whether
+   disgust in anti-smoking messages decreases or increases persuasion as
+   measured by motivation to abstain from smoking and attitudes towards
+   smoking. Methods: In two online experiments (total N = 1045), smokers
+   (26%) and non-smokers were randomly assigned to watch fear appeal
+   anti-smoking ads that elicited high versus moderate levels of disgust
+   but similar levels of fear. Smokers reported motivation to quit, while
+   non-smokers reported motivation to not start smoking. All participants
+   reported explicit attitudes toward smoking and performed an Implicit
+   Association Test that measures implicit attitudes toward smoking and
+   cigarettes. Findings: There were no differences between these
+   conditions, except on a measure of implicit attitudes. However, this
+   effect was not replicated in the second study, and analyses across
+   studies revealed no substantial difference between the conditions.
+   Conclusions: In the current context, there were no or potentially very
+   small benefits of using disgust elements when level of fear was held
+   constant (i.e. compared to other means of inducing negative emotions).
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000361336500006
+ER
+
+PT J
+AU Newton, Joshua D.
+   Wong, Jimmy
+   Newton, Fiona J.
+TI The Social Status of Health Message Endorsers Influences the Health
+   Intentions of the Powerless
+SO JOURNAL OF ADVERTISING
+VL 44
+IS 2
+SI SI
+BP 151
+EP 160
+DI 10.1080/00913367.2015.1018464
+PD 2015
+PY 2015
+AB Message endorsers are often used to encourage at-risk populations to
+   adopt health-related behaviors. This study examined how the social
+   status of message endorsers and message recipients' state of power
+   combined to influence recipients' health intentions. Individuals in low
+   (versus high) states of power had greater intentions to enact health
+   behaviors when those behaviors were endorsed by a high social status
+   spokesperson. This effect was found when power was measured (Study 1)
+   and manipulated (Studies 2 and 3), and when the behavior was endorsed by
+   professionals from health (Studies 1 and 3) and nonhealth (Study 2)
+   backgrounds.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000354316700007
+ER
+
+PT J
+AU Schumann, Karina
+   Dweck, Carol S.
+TI Who Accepts Responsibility for Their Transgressions?
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+VL 40
+IS 12
+BP 1598
+EP 1610
+DI 10.1177/0146167214552789
+PD DEC 2014
+PY 2014
+AB After committing an offense, transgressors can optimize their chances of
+   reconciling with the victim by accepting responsibility. However,
+   transgressors may be motivated to avoid admitting fault because it can
+   feel threatening to accept blame for harmful behavior. Who, then, is
+   likely to accept responsibility for a transgression? We examined how
+   implicit theories of personalitywhether people see personality as
+   malleable (incremental theory) or fixed (entity theory)influence
+   transgressors' likelihood of accepting responsibility. We argue that
+   incremental theorists may feel less threatened by accepting
+   responsibility because they are more likely to view the situation as an
+   opportunity for them to grow as a person and develop their relationship
+   with the victim. We found support for our predictions across four
+   studies using a combination of real-world and hypothetical offenses, and
+   correlational and experimental methods. These studies therefore identify
+   an important individual difference factor that can lead to more
+   effective responses from transgressors.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000344851000004
+PM 25252938
+ER
+
+PT J
+AU De Vito, Stefania
+   Bonnefon, Jean-Francois
+TI People believe each other to be selfish hedonic maximizers
+SO PSYCHONOMIC BULLETIN & REVIEW
+VL 21
+IS 5
+BP 1331
+EP 1338
+DI 10.3758/s13423-014-0592-7
+PD OCT 2014
+PY 2014
+AB Current computational models of theory of mind typically assume that
+   humans believe each other to selfishly maximize utility, for a
+   conception of utility that makes it indistinguishable from personal
+   gains. We argue that this conception is at odds with established facts
+   about human altruism, as well as the altruism that humans expect from
+   each other. We report two experiments showing that people expect other
+   agents to selfishly maximize their pleasure, even when these other
+   agents behave altruistically. Accordingly, defining utility as pleasure
+   permits us to reconcile the assumption that humans expect each other to
+   selfishly maximize utility with the fact that humans expect each other
+   to behave altruistically.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000343057100029
+PM 24519484
+ER
+
+PT J
+AU Mok, Ricky K. P.
+   Li, Weichao
+   Chang, Rocky K. C.
+TI A User Behavior based Cheat Detection Mechanism for Crowdtesting
+SO ACM SIGCOMM COMPUTER COMMUNICATION REVIEW
+VL 44
+IS 4
+BP 123
+EP 124
+DI 10.1145/2619239.2631447
+PD OCT 2014
+PY 2014
+AB Crowdtesting is increasingly popular among researchers to carry out
+   subjective assessments of different services. Experimenters can easily
+   assess to a huge pool of :human subjects through crowdsourcing
+   platforms. The workers are usually anonymous, and they participate in
+   the experiments independently. Therefore, a fundamental problem
+   threatening the integrity of these platforms is to detect various types
+   of cheating from the workers.
+   In this poster, we propose cheat-detection mechanism based on an
+   analysis of the workers' mouse cursor trajectories. It provides a
+   jQuery-based library to record browser events. We compute a set of
+   metrics from the cursor traces to identify cheaters. We deploy our
+   mechanism to the survey pages for our video quality assessment tasks
+   published on Amazon Mechanical Turk. Our results show that cheaters'
+   cursor movement is usually more direct and contains less pauses.
+CT SIGCOMM Conference
+CY AUG 17-22, 2014
+CL Chicago, IL
+SP ACM SIGCOMM; Assoc Comp Machinery
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000350564600021
+ER
+
+PT J
+AU Andersson, Marta
+   Spenader, Jennifer
+TI RESULT and PURPOSE relations with and without 'so'
+SO LINGUA
+VL 148
+BP 1
+EP 27
+DI 10.1016/j.lingua.2014.05.001
+PD SEP 2014
+PY 2014
+AB Coherence relations differ in their tendency to be explicitly marked.
+   How such relations are recognized and what determines their tendency to
+   be marked is a matter of debate. The connective so represents a special
+   case: it can be used to signal RESULT coherence relations and the more
+   specific cause-effect relation of PURPOSE, but overt marking has been
+   claimed to be required for PURPOSE and optional for RESULT. We present
+   written corpus and experimental results on the use of so that show that
+   RESULT and PURPOSE with this connective can be reliably distinguished
+   from each other, and that the modal auxiliaries can/could and will/would
+   are strongly associated with PURPOSE. In the corpus study, PURPOSE
+   always occurs with explicit so, while RESULT is often left unmarked.
+   These results are in line with recent claims based on annotated corpus
+   data that implicit (unmarked) and explicit (marked) coherence relations
+   can be qualitatively different (e.g. Sporleder and Lascarides, 2008;
+   Webber, 2009). However, in our experiments using strongly purposive
+   event pairs, 35-40% of examples were identified as PURPOSE without a
+   connective or a modal verb cue. We argue that the difference between the
+   corpus results and the experimental results can be explained as a
+   difference between the tasks of speakers and hearers, and we outline an
+   explanation for how marking can be obligatory for PURPOSE relations and
+   yet optional for RESULT. We also propose that nonveridicality seems to
+   play a key role in a marking requirement for PURPOSE, and explain why
+   the unusual marking pattern found makes it difficult to give a pragmatic
+   account similar to more well-known language asymmetries. (C) 2014
+   Elsevier B.V. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000341075300001
+ER
+
+PT J
+AU Matsubara, Shigeo
+   Wang, Meile
+TI Preventing Participation of Insincere Workers in Crowdsourcing by Using
+   Pay-for-Performance Payments
+SO IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS
+VL E97D
+IS 9
+BP 2415
+EP 2422
+DI 10.1587/transinf.2013EDP7441
+PD SEP 2014
+PY 2014
+AB We propose a method for finding an appropriate setting of a
+   pay-per-performance payment system to prevent participation of insincere
+   workers in crowdsourcing. Crowdsourcing enables fast and low-cost
+   accomplishment of tasks; however, insincere workers prevent the task
+   requester from obtaining high-quality results. Instead of a fixed
+   payment system, the pay-per-performance payment system is promising for
+   excluding insincere workers. However, it is difficult to learn what
+   settings are better, and a naive payment setting may cause
+   unsatisfactory outcomes. To overcome these drawbacks, we propose a
+   method for calculating the expected payments for sincere and insincere
+   workers, and then clarifying the conditions in the payment setting in
+   which sincere workers are willing to choose a task, while insincere
+   workers are not willing to choose the task. We evaluated the proposed
+   method by conducting several experiments on tweet labeling tasks in
+   Amazon Mechanical Turk. The results suggest that the pay-per-performance
+   system is useful for preventing participation of insincere workers.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000342784600022
+ER
+
+PT J
+AU Vinson, David W.
+   Abney, Drew H.
+   Dale, Rick
+   Matlock, Teenie
+TI High-level context effects on spatial displacement: the effects of body
+   orientation and language on memory
+SO FRONTIERS IN PSYCHOLOGY
+VL 5
+AR 637
+DI 10.3389/fpsyg.2014.00637
+PD JUL 3 2014
+PY 2014
+AB Three decades of research suggests that cognitive simulation of motion
+   is involved in the comprehension of object location, bodily
+   configuration, and linguistic meaning. For example, the remembered
+   location of an object associated with actual or implied motion is
+   typically displaced in the direction of motion. In this paper, two
+   experiments explore context effects in spatial displacement. They
+   provide a novel approach to estimating the remembered location of an
+   implied motion image by employing a cursor-positioning task. Both
+   experiments examine how the remembered spatial location of a person is
+   influenced by subtle differences in implied motion, specifically, by
+   shifting the orientation of the person's body to face upward or
+   downward, and by pairing the image with motion language that differed on
+   intentionality, fell versus jumped. The results of Experiment 1, a
+   survey-based experiment, suggest that language and body orientation
+   influenced vertical spatial displacement. Results of Experiment 2, a
+   task that used Adobe Flash and Amazon Mechanical Turk, showed consistent
+   effects of body orientation on vertical spatial displacement but no
+   effect of language. Our findings are in line with previous work on
+   spatial displacement that uses a cursor-positioning task with implied
+   motion stimuli. We discuss how different ways of simulating motion can
+   influence spatial memory.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000338778600001
+PM 25071628
+ER
+
+PT J
+AU Ahler, Douglas J.
+TI Self-Fulfilling Misperceptions of Public Polarization
+SO JOURNAL OF POLITICS
+VL 76
+IS 3
+BP 607
+EP 620
+DI 10.1017/S0022381614000085
+PD JUL 2014
+PY 2014
+AB Mass media convey deep divisions among citizens despite scant evidence
+   for such ideological polarization. Do ordinary citizens perceive
+   themselves to be more extreme and divided than they actually are? If so,
+   what are the ramifications of such misperception? A representative
+   sample from California provides evidence that voters from both sides of
+   the state's political divide perceive both their liberal and
+   conservative peers' positions as more extreme than they actually are,
+   implying inaccurate beliefs about polarization. A second study again
+   demonstrates this finding with an online sample and presents evidence
+   that misperception of mass-level extremity can affect individuals' own
+   policy opinions. Experimental participants randomly assigned to learn
+   the actual average policy-related predispositions of liberal and
+   conservative Americans later report opinions that are 8-13% more
+   moderate, on average. Thus, citizens appear to consider peers' positions
+   within public debate when forming their own opinions and adopt slightly
+   more extreme positions as a consequence.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000338104000015
+ER
+
+PT J
+AU Amirkhani, Hossein
+   Rahmati, Mohammad
+TI Agreement/disagreement based crowd labeling
+SO APPLIED INTELLIGENCE
+VL 41
+IS 1
+BP 212
+EP 222
+DI 10.1007/s10489-014-0516-2
+PD JUL 2014
+PY 2014
+AB In many supervised learning problems, determining the true labels of
+   training instances is expensive, laborious, and even practically
+   impossible. As an alternative approach, it is much easier to collect
+   multiple subjective (possibly noisy) labels from human labelers,
+   especially with the crowdsourcing services such as Amazon's Mechanical
+   Turk. The collected labels are then aggregated to estimate the true
+   labels. In order to reduce the negative effects of novices, spammers,
+   and malicious labelers, it necessitates taking into account the
+   accuracies of the labelers. However, in the absence of true labels, we
+   miss the main source of information to estimate the labeler accuracies.
+   This paper demonstrates that the agreements or disagreements among
+   labeler opinions are useful sources of information and facilitate the
+   accuracy estimation problem. We represent this estimation problem as an
+   optimization problem which its goal is to minimize the differences
+   between the analytical probabilities of disagreements based on estimated
+   accuracies and the probabilities of disagreements according to the
+   provided labels. We present an efficient semi-exhaustive search method
+   to solve this optimization problem. Our experiments on the simulated
+   data and three real datasets show that the proposed method is a
+   promising idea in this emerging new area. The source code of the
+   proposed method is available for downloading at
+   http://ceit.aut.ac.ir/similar to amirkhani.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000338214100014
+ER
+
+PT J
+AU DeArmond, Sarah
+   Matthews, Russell A.
+   Bunk, Jennifer
+TI Workload and Procrastination: The Roles of Psychological Detachment and
+   Fatigue
+SO INTERNATIONAL JOURNAL OF STRESS MANAGEMENT
+VL 21
+IS 2
+BP 137
+EP 161
+DI 10.1037/a0034893
+PD MAY 2014
+PY 2014
+AB In the present study, the self-control and recovery/detachment research
+   literatures are integrated to explore the connection between workload
+   and procrastination. We tested a conceptual model that draws heavily
+   from the stressor-detachment model (Sonnentag, 2011), and represents one
+   of the first empirical tests of this model. We hypothesized that
+   psychological detachment would both mediate and moderate the
+   relationship between workload and fatigue and that fatigue would mediate
+   the relationship between psychological detachment and procrastination.
+   We tested the hypothesized model by surveying 547 working adults at 3
+   points in time over a 2-month period. Psychological detachment fully
+   mediated the relationship between workload and fatigue; psychological
+   detachment did not moderate this relationship. Fatigue partially
+   mediated the relationship between psychological detachment and
+   procrastination. Further, workload was indirectly related to
+   procrastination 2 months later through relationships with psychological
+   detachment and fatigue. These findings suggest that occupational
+   stressors are related to procrastination and that this relationship can
+   be partially explained by psychological detachment and fatigue.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+UT WOS:000345682600001
+ER
+
+PT J
+AU Schiller, TW
+   Ernst, MD
+AF Schiller, Todd W.
+   Ernst, Michael D.
+TI Reducing the Barriers to Writing Verified Specifications
+SO ACM SIGPLAN NOTICES
+AB Formally verifying a program requires significant skill not only because of complex interactions between program sub-components, but also because of deficiencies in current verification interfaces. These skill barriers make verification economically unattractive by preventing the use of less-skilled (less-expensive) workers and distributed workflows (i.e., crowdsourcing).
+   This paper presents VeriWeb, a web-based IDE for verification that decomposes the task of writing verifiable specifications into manageable subproblems. To overcome the information loss caused by task decomposition, and to reduce the skill required to verify a program, VeriWeb incorporates several innovative user interface features: drag and drop condition construction, concrete counterexamples, and specification inlining.
+   To evaluate VeriWeb, we performed three experiments. First, we show that VeriWeb lowers the time and monetary cost of verification by performing a comparative study of VeriWeb and a traditional tool using 14 paid subjects contracted hourly from Exhedra Solution's vWorker online marketplace. Second, we demonstrate the dearth and insufficiency of current ad-hoc labor marketplaces for verification by recruiting workers from Amazon's Mechanical Turk to perform verification with VeriWeb. Finally, we characterize the minimal communication overhead incurred when VeriWeb is used collaboratively by observing two pairs of developers each use the tool simultaneously to verify a single program.
+TC 0
+Z9 0
+PD OCT
+PY 2012
+VL 47
+IS 10
+BP 95
+EP 111
+DI 10.1145/2398857.2384624
+ER

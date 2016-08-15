@@ -1,0 +1,68 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<section class="container" id="DataCollection" style="padding: 10px; width: 950px; height: 802px; color: rgb(51, 51, 51); font-family: Verdana, Geneva, sans-serif; font-size: 0.9em; margin-bottom: 15px;">
+<div class="row col-xs-12 col-md-12" dir="ltr" style="width: 100%; height: 482px;"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<p style="font-weight:bold">Use <span style="font-size:22px"><a href="${url}" target="_blank">THIS LINK</a></span> to answer the question below. Do not click any links within the page or use any other sources.</p>
+
+<p>Use <strong>find</strong> (CTRL-F or CMD-F) to locate the professor. Departments may be within or following a person&#39;s title.</p>
+
+<h3>Is <strong>${name}</strong> associated with ANY departments that are part of the field of <strong>${field}</strong>?</h3>
+
+<p>Only mark &quot;I&#39;m not sure at all&quot; if you are unfamiliar with the meaning of the field or discipline names. Otherwise, make your best guess. <em>Unsure and not found responses will be checked before approval. Other responses may be checked, but will only be rejected if clearly wrong. Sample coding is below.</em></p>
+
+<p><input name="fieldmatch" type="radio" value="1" />I think so</p>
+
+<p><input name="fieldmatch" type="radio" value="0" />I think not</p>
+
+<p><input name="fieldmatch" type="radio" value="99" />I&#39;m not sure at all</p>
+
+<p><input name="fieldmatch" type="radio" value="9" />Name not found</p>
+&nbsp;
+
+<p>Sample fields:</p>
+
+<table border="1" style="font-size:10px">
+	<thead>
+		<tr>
+			<td>Check field</td>
+			<td>Not matched</td>
+			<td>Matched</td>
+			<td>Either response acceptable</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Physics</td>
+			<td>Science Education, Statistics</td>
+			<td>Physics, Particle Physics</td>
+			<td>Biophysics, Physical Science</td>
+		</tr>
+		<tr>
+			<td>Geology</td>
+			<td>Ecology, Forestry</td>
+			<td>Geology</td>
+			<td>Biogeochemistry, Soil Science, Earth and Mineral Science</td>
+		</tr>
+		<tr>
+			<td>Sociology</td>
+			<td>Health Science, Anthropology</td>
+			<td>Sociology, Sociology of Science</td>
+			<td>Social Sciences, Social Psychology, Social History</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp; &nbsp;
+
+<p><em>If you have any questions or feedback or feel your work was unfairly rejected, please contact the requester. We hope to earn your trust by being both fair and timely in tasks, payment, and communication.</em></p>
+</div>
+</div>
+</div>
+</section>
+<!-- close container -->
+<style type="text/css">td { font-size:1.0em; padding: 5px 5px; }
+</style>
+<p>&nbsp;</p>
